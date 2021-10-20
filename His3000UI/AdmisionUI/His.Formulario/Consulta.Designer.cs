@@ -259,6 +259,8 @@
             this.toolStripButton5 = new System.Windows.Forms.ToolStripButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.error = new System.Windows.Forms.ErrorProvider(this.components);
+            this.btnLaboratorio = new System.Windows.Forms.PictureBox();
+            this.btnImagen = new System.Windows.Forms.PictureBox();
             this.ultraTabPageControl10.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grpPrimerGrupo)).BeginInit();
             this.grpPrimerGrupo.SuspendLayout();
@@ -293,12 +295,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridNotasEvolucion)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.error)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnLaboratorio)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnImagen)).BeginInit();
             this.SuspendLayout();
             // 
             // ultraTabPageControl10
             // 
             this.ultraTabPageControl10.Controls.Add(this.grpPrimerGrupo);
-            this.ultraTabPageControl10.Location = new System.Drawing.Point(-10000, -10000);
+            this.ultraTabPageControl10.Location = new System.Drawing.Point(1, 26);
             this.ultraTabPageControl10.Name = "ultraTabPageControl10";
             this.ultraTabPageControl10.Size = new System.Drawing.Size(828, 455);
             // 
@@ -1648,7 +1652,7 @@
             // ultraTabPageControl13
             // 
             this.ultraTabPageControl13.Controls.Add(this.grpDiezOnceDoce);
-            this.ultraTabPageControl13.Location = new System.Drawing.Point(1, 26);
+            this.ultraTabPageControl13.Location = new System.Drawing.Point(-10000, -10000);
             this.ultraTabPageControl13.Name = "ultraTabPageControl13";
             this.ultraTabPageControl13.Size = new System.Drawing.Size(828, 455);
             // 
@@ -2488,6 +2492,8 @@
             // 
             // P_Botones
             // 
+            this.P_Botones.Controls.Add(this.btnLaboratorio);
+            this.P_Botones.Controls.Add(this.btnImagen);
             this.P_Botones.Controls.Add(this.btnCertificado);
             this.P_Botones.Controls.Add(this.btnreceta);
             this.P_Botones.Controls.Add(this.btnBuscarPaciente);
@@ -2505,7 +2511,7 @@
             // 
             this.btnCertificado.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCertificado.Image = ((System.Drawing.Image)(resources.GetObject("btnCertificado.Image")));
-            this.btnCertificado.Location = new System.Drawing.Point(193, 7);
+            this.btnCertificado.Location = new System.Drawing.Point(286, 7);
             this.btnCertificado.Name = "btnCertificado";
             this.btnCertificado.Size = new System.Drawing.Size(40, 43);
             this.btnCertificado.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -2519,7 +2525,7 @@
             // 
             this.btnreceta.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnreceta.Image = ((System.Drawing.Image)(resources.GetObject("btnreceta.Image")));
-            this.btnreceta.Location = new System.Drawing.Point(147, 7);
+            this.btnreceta.Location = new System.Drawing.Point(240, 7);
             this.btnreceta.Name = "btnreceta";
             this.btnreceta.Size = new System.Drawing.Size(40, 43);
             this.btnreceta.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -2546,7 +2552,7 @@
             // 
             this.btnSalir.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSalir.Image = ((System.Drawing.Image)(resources.GetObject("btnSalir.Image")));
-            this.btnSalir.Location = new System.Drawing.Point(295, 4);
+            this.btnSalir.Location = new System.Drawing.Point(49, 53);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(40, 43);
             this.btnSalir.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -2587,7 +2593,7 @@
             // 
             this.btnNuevo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnNuevo.Image = ((System.Drawing.Image)(resources.GetObject("btnNuevo.Image")));
-            this.btnNuevo.Location = new System.Drawing.Point(249, 4);
+            this.btnNuevo.Location = new System.Drawing.Point(3, 53);
             this.btnNuevo.Name = "btnNuevo";
             this.btnNuevo.Size = new System.Drawing.Size(40, 43);
             this.btnNuevo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -2904,6 +2910,33 @@
             // 
             this.error.ContainerControl = this;
             // 
+            // btnLaboratorio
+            // 
+            this.btnLaboratorio.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnLaboratorio.Image = ((System.Drawing.Image)(resources.GetObject("btnLaboratorio.Image")));
+            this.btnLaboratorio.Location = new System.Drawing.Point(196, 7);
+            this.btnLaboratorio.Name = "btnLaboratorio";
+            this.btnLaboratorio.Size = new System.Drawing.Size(40, 43);
+            this.btnLaboratorio.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.btnLaboratorio.TabIndex = 9;
+            this.btnLaboratorio.TabStop = false;
+            this.toolTip1.SetToolTip(this.btnLaboratorio, "Pedido de Laboratorio");
+            this.btnLaboratorio.Visible = false;
+            // 
+            // btnImagen
+            // 
+            this.btnImagen.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnImagen.Image = ((System.Drawing.Image)(resources.GetObject("btnImagen.Image")));
+            this.btnImagen.Location = new System.Drawing.Point(150, 7);
+            this.btnImagen.Name = "btnImagen";
+            this.btnImagen.Size = new System.Drawing.Size(40, 43);
+            this.btnImagen.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.btnImagen.TabIndex = 8;
+            this.btnImagen.TabStop = false;
+            this.toolTip1.SetToolTip(this.btnImagen, "Pedido de Imagen");
+            this.btnImagen.Visible = false;
+            this.btnImagen.Click += new System.EventHandler(this.btnImagen_Click);
+            // 
             // Consulta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2956,6 +2989,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridNotasEvolucion)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.error)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnLaboratorio)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnImagen)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -3177,5 +3212,7 @@
         private System.Windows.Forms.Label label59;
         private System.Windows.Forms.PictureBox btnCertificado;
         private System.Windows.Forms.PictureBox btnreceta;
+        private System.Windows.Forms.PictureBox btnLaboratorio;
+        private System.Windows.Forms.PictureBox btnImagen;
     }
 }

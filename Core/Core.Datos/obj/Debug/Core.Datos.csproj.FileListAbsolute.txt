@@ -59,3 +59,10 @@ R:\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.csproj.CoreCompileInputs.cache
 R:\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.csproj.CopyComplete
 R:\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
 R:\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+E:\Desarrollo\CM3000\bin\Core.Datos.dll
+E:\Desarrollo\CM3000\bin\Core.Datos.pdb
+E:\Desarrollo\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.csprojAssemblyReference.cache
+E:\Desarrollo\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.csproj.CopyComplete
+E:\Desarrollo\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+E:\Desarrollo\CM3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb

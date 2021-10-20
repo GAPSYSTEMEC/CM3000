@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-R:\CM3000\His3000UI\AccesoUI\obj\Debug\
+E:\Desarrollo\CM3000\His3000UI\AccesoUI\obj\Debug\
 AccesoUI
 none
 false
 DEBUG;TRACE
-R:\CM3000\His3000UI\AccesoUI\App.xaml
+E:\Desarrollo\CM3000\His3000UI\AccesoUI\App.xaml
 4-556474855
 
 91041400811
-29111491273
+29-1797818987
 Acceso.xaml;CambiarClave.xaml;login.xaml;loginTarifario.xaml;
 
 False

@@ -67,3 +67,9 @@ R:\CM3000\His.Datos\obj\Debug\His.Datos.csproj.CoreCompileInputs.cache
 R:\CM3000\His.Datos\obj\Debug\His.Datos.csproj.CopyComplete
 R:\CM3000\His.Datos\obj\Debug\His.Datos.dll
 R:\CM3000\His.Datos\obj\Debug\His.Datos.pdb
+E:\Desarrollo\CM3000\bin\His.Datos.dll
+E:\Desarrollo\CM3000\bin\His.Datos.pdb
+E:\Desarrollo\CM3000\His.Datos\obj\Debug\His.Datos.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\His.Datos\obj\Debug\His.Datos.csproj.CopyComplete
+E:\Desarrollo\CM3000\His.Datos\obj\Debug\His.Datos.dll
+E:\Desarrollo\CM3000\His.Datos\obj\Debug\His.Datos.pdb

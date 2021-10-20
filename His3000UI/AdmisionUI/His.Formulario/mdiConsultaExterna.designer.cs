@@ -35,6 +35,8 @@
             this.P_Menu = new System.Windows.Forms.Panel();
             this.btnSalir = new System.Windows.Forms.Button();
             this.P_Inventario = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.btnReportes = new System.Windows.Forms.Button();
             this.btnConsultaEx = new System.Windows.Forms.Button();
             this.btnIngresaOrden = new System.Windows.Forms.Button();
@@ -53,9 +55,6 @@
             this.btnNormal = new System.Windows.Forms.PictureBox();
             this.btnMinizar = new System.Windows.Forms.PictureBox();
             this.btnMaximiza = new System.Windows.Forms.PictureBox();
-            this.btnFacturaCE = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.P_Central.SuspendLayout();
             this.P_Formularios.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -132,7 +131,7 @@
             this.btnSalir.ForeColor = System.Drawing.Color.Transparent;
             this.btnSalir.Image = ((System.Drawing.Image)(resources.GetObject("btnSalir.Image")));
             this.btnSalir.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSalir.Location = new System.Drawing.Point(0, 351);
+            this.btnSalir.Location = new System.Drawing.Point(0, 323);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Padding = new System.Windows.Forms.Padding(35, 0, 0, 0);
             this.btnSalir.Size = new System.Drawing.Size(250, 40);
@@ -149,15 +148,58 @@
             this.P_Inventario.Controls.Add(this.button2);
             this.P_Inventario.Controls.Add(this.button1);
             this.P_Inventario.Controls.Add(this.btnReportes);
-            this.P_Inventario.Controls.Add(this.btnFacturaCE);
             this.P_Inventario.Controls.Add(this.btnConsultaEx);
             this.P_Inventario.Controls.Add(this.btnIngresaOrden);
             this.P_Inventario.Controls.Add(this.btnTriaje);
             this.P_Inventario.Dock = System.Windows.Forms.DockStyle.Top;
             this.P_Inventario.Location = new System.Drawing.Point(0, 141);
             this.P_Inventario.Name = "P_Inventario";
-            this.P_Inventario.Size = new System.Drawing.Size(250, 210);
+            this.P_Inventario.Size = new System.Drawing.Size(250, 182);
             this.P_Inventario.TabIndex = 1;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
+            this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(126)))), ((int)(((byte)(233)))));
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(0, 150);
+            this.button2.Margin = new System.Windows.Forms.Padding(0);
+            this.button2.Name = "button2";
+            this.button2.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
+            this.button2.Size = new System.Drawing.Size(250, 30);
+            this.button2.TabIndex = 12;
+            this.button2.Text = "RECETA";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
+            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(126)))), ((int)(((byte)(233)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(0, 120);
+            this.button1.Margin = new System.Windows.Forms.Padding(0);
+            this.button1.Name = "button1";
+            this.button1.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
+            this.button1.Size = new System.Drawing.Size(250, 30);
+            this.button1.TabIndex = 11;
+            this.button1.Text = "CERTIFICADO";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnReportes
             // 
@@ -170,7 +212,7 @@
             this.btnReportes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(126)))), ((int)(((byte)(233)))));
             this.btnReportes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnReportes.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReportes.Location = new System.Drawing.Point(0, 120);
+            this.btnReportes.Location = new System.Drawing.Point(0, 90);
             this.btnReportes.Margin = new System.Windows.Forms.Padding(0);
             this.btnReportes.Name = "btnReportes";
             this.btnReportes.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
@@ -198,9 +240,10 @@
             this.btnConsultaEx.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
             this.btnConsultaEx.Size = new System.Drawing.Size(250, 30);
             this.btnConsultaEx.TabIndex = 8;
-            this.btnConsultaEx.Text = "CONSULTA";
+            this.btnConsultaEx.Text = "PEDIDO DE LABORATORIO";
             this.btnConsultaEx.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnConsultaEx.UseVisualStyleBackColor = false;
+            this.btnConsultaEx.Visible = false;
             this.btnConsultaEx.Click += new System.EventHandler(this.btnConsultaEx_Click);
             // 
             // btnIngresaOrden
@@ -220,10 +263,11 @@
             this.btnIngresaOrden.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
             this.btnIngresaOrden.Size = new System.Drawing.Size(250, 30);
             this.btnIngresaOrden.TabIndex = 7;
-            this.btnIngresaOrden.Text = "SIGNOS VITALES";
+            this.btnIngresaOrden.Text = "PEDIDO DE IMAGEN";
             this.btnIngresaOrden.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnIngresaOrden.UseVisualStyleBackColor = false;
             this.btnIngresaOrden.Visible = false;
+            this.btnIngresaOrden.Click += new System.EventHandler(this.btnIngresaOrden_Click);
             // 
             // btnTriaje
             // 
@@ -242,7 +286,7 @@
             this.btnTriaje.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
             this.btnTriaje.Size = new System.Drawing.Size(250, 30);
             this.btnTriaje.TabIndex = 6;
-            this.btnTriaje.Text = "TRIAJE Y SIGNOS VITALES";
+            this.btnTriaje.Text = "CONSULTA EXTERNA";
             this.btnTriaje.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnTriaje.UseVisualStyleBackColor = false;
             this.btnTriaje.Click += new System.EventHandler(this.btnTriaje_Click);
@@ -322,6 +366,7 @@
             this.btnAgendaConsulta.Text = "AGENDAMIENTO PACIENTE";
             this.btnAgendaConsulta.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAgendaConsulta.UseVisualStyleBackColor = false;
+            this.btnAgendaConsulta.Visible = false;
             this.btnAgendaConsulta.Click += new System.EventHandler(this.btnAgendaConsulta_Click);
             // 
             // btnAgenda
@@ -457,72 +502,6 @@
             this.btnMaximiza.TabStop = false;
             this.btnMaximiza.Click += new System.EventHandler(this.btnMaximiza_Click);
             // 
-            // btnFacturaCE
-            // 
-            this.btnFacturaCE.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
-            this.btnFacturaCE.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnFacturaCE.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnFacturaCE.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
-            this.btnFacturaCE.FlatAppearance.BorderSize = 0;
-            this.btnFacturaCE.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
-            this.btnFacturaCE.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(126)))), ((int)(((byte)(233)))));
-            this.btnFacturaCE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnFacturaCE.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFacturaCE.Location = new System.Drawing.Point(0, 90);
-            this.btnFacturaCE.Margin = new System.Windows.Forms.Padding(0);
-            this.btnFacturaCE.Name = "btnFacturaCE";
-            this.btnFacturaCE.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
-            this.btnFacturaCE.Size = new System.Drawing.Size(250, 30);
-            this.btnFacturaCE.TabIndex = 9;
-            this.btnFacturaCE.Text = "FACTURACIÓN";
-            this.btnFacturaCE.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnFacturaCE.UseVisualStyleBackColor = false;
-            this.btnFacturaCE.Click += new System.EventHandler(this.btnFacturaCE_Click);
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
-            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
-            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(126)))), ((int)(((byte)(233)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(0, 150);
-            this.button1.Margin = new System.Windows.Forms.Padding(0);
-            this.button1.Name = "button1";
-            this.button1.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
-            this.button1.Size = new System.Drawing.Size(250, 30);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "CERTIFICADO";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
-            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(195)))), ((int)(((byte)(216)))));
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
-            this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(126)))), ((int)(((byte)(233)))));
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(0, 180);
-            this.button2.Margin = new System.Windows.Forms.Padding(0);
-            this.button2.Name = "button2";
-            this.button2.Padding = new System.Windows.Forms.Padding(45, 0, 0, 0);
-            this.button2.Size = new System.Drawing.Size(250, 30);
-            this.button2.TabIndex = 12;
-            this.button2.Text = "RECETA";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
             // mdiConsultaExterna
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -582,6 +561,5 @@
         private System.Windows.Forms.Button btnReportes;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btnFacturaCE;
     }
 }

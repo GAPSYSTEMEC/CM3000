@@ -86,3 +86,10 @@ R:\CM3000\His.Entidades\obj\Debug\His.Entidades.csprojAssemblyReference.cache
 R:\CM3000\His.Entidades\obj\Debug\His.Entidades.csproj.CoreCompileInputs.cache
 R:\CM3000\His.Entidades\obj\Debug\His.Entidades.dll
 R:\CM3000\His.Entidades\obj\Debug\His.Entidades.pdb
+E:\Desarrollo\CM3000\bin\His.Entidades.dll.config
+E:\Desarrollo\CM3000\bin\His.Entidades.dll
+E:\Desarrollo\CM3000\bin\His.Entidades.pdb
+E:\Desarrollo\CM3000\His.Entidades\obj\Debug\His.Entidades.csprojAssemblyReference.cache
+E:\Desarrollo\CM3000\His.Entidades\obj\Debug\His.Entidades.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\His.Entidades\obj\Debug\His.Entidades.dll
+E:\Desarrollo\CM3000\His.Entidades\obj\Debug\His.Entidades.pdb

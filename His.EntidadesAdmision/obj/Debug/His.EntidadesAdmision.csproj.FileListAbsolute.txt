@@ -67,3 +67,10 @@ R:\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.csprojAssemblyRe
 R:\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.csproj.CoreCompileInputs.cache
 R:\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.dll
 R:\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.pdb
+E:\Desarrollo\CM3000\bin\His.EntidadesAdmision.dll.config
+E:\Desarrollo\CM3000\bin\His.EntidadesAdmision.dll
+E:\Desarrollo\CM3000\bin\His.EntidadesAdmision.pdb
+E:\Desarrollo\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.csprojAssemblyReference.cache
+E:\Desarrollo\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.dll
+E:\Desarrollo\CM3000\His.EntidadesAdmision\obj\Debug\His.EntidadesAdmision.pdb
