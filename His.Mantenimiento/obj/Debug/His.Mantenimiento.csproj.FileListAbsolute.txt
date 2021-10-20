@@ -1,0 +1,302 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Mantenimiento.dll.config
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Mantenimiento.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Mantenimiento.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Encriptar.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmCatalogosCostosTipo.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmReportes.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Bancos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Cajas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Catalogos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CategoriasConvenios.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatlogoCostos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Categoria.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Ciudad.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Departamentos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_DivisionPolitica.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Empresa.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Estaciones.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_local.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControl.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControlCajas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_OpcionesAcceso.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pais.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pedidos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PedidosCuenta.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Perfiles.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_precios.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PreciosConvenios.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatalogoTipo.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Servicios.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoMedico.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoNegocio.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Usuario.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Zona.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_ZonaEdicion.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Menu.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.pdb
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Encriptar.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmCatalogosCostosTipo.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmReportes.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Bancos.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Cajas.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Catalogos.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CategoriasConvenios.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatlogoCostos.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Categoria.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Ciudad.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Departamentos.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_DivisionPolitica.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Empresa.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Estaciones.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_local.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControl.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControlCajas.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_OpcionesAcceso.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pais.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pedidos.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PedidosCuenta.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Perfiles.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PermisosCambioEstadosCuentas.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_precios.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PreciosConvenios.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatalogoTipo.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Servicios.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoMedico.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoNegocio.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Usuario.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Zona.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_ZonaEdicion.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Menu.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.pdb
+C:\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000(5)\His3000\bin\His.Mantenimiento.pdb
+C:\His3000(5)\His3000\bin\His.Mantenimiento.dll.config
+C:\His3000(5)\His3000\bin\His.Mantenimiento.dll
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses
+C:\His3000(5)\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll
+C:\His3000Facturacion\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000Facturacion\His3000\bin\His.Mantenimiento.pdb
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Encriptar.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmCatalogosCostosTipo.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmReportes.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Bancos.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Cajas.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Catalogos.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CategoriasConvenios.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatlogoCostos.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Categoria.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Ciudad.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Departamentos.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_DivisionPolitica.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Empresa.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Estaciones.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_local.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControl.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControlCajas.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_OpcionesAcceso.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pais.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pedidos.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PedidosCuenta.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Perfiles.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PermisosCambioEstadosCuentas.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_precios.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PreciosConvenios.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatalogoTipo.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Servicios.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoMedico.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoNegocio.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Usuario.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Zona.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_ZonaEdicion.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Menu.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.pdb
+C:\His3000Facturacion\His3000\bin\His.Mantenimiento.dll.config
+C:\His3000Facturacion\His3000\bin\His.Mantenimiento.dll
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses
+C:\His3000Facturacion\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000Facturacion_integral\His3000\bin\His.Mantenimiento.pdb
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Encriptar.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmCatalogosCostosTipo.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmReportes.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Bancos.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Cajas.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Catalogos.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CategoriasConvenios.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatlogoCostos.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Categoria.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Ciudad.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Departamentos.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_DivisionPolitica.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Empresa.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Estaciones.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_local.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControl.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControlCajas.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_OpcionesAcceso.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pais.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pedidos.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PedidosCuenta.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Perfiles.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PermisosCambioEstadosCuentas.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_precios.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PreciosConvenios.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatalogoTipo.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Servicios.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoMedico.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoNegocio.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Usuario.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Zona.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_ZonaEdicion.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Menu.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.pdb
+C:\His3000Facturacion_integral\His3000\bin\His.Mantenimiento.dll.config
+C:\His3000Facturacion_integral\His3000\bin\His.Mantenimiento.dll
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses
+C:\His3000Facturacion_integral\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000_INTEGRAL\His3000\bin\His.Mantenimiento.pdb
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Encriptar.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmCatalogosCostosTipo.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmReportes.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Bancos.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Cajas.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Catalogos.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CategoriasConvenios.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatlogoCostos.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Categoria.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Ciudad.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Departamentos.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_DivisionPolitica.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Empresa.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Estaciones.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_local.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControl.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControlCajas.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_OpcionesAcceso.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pais.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pedidos.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PedidosCuenta.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Perfiles.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PermisosCambioEstadosCuentas.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_precios.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PreciosConvenios.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatalogoTipo.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Servicios.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoMedico.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoNegocio.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Usuario.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Zona.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_ZonaEdicion.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Menu.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.pdb
+C:\His3000_INTEGRAL\His3000\bin\His.Mantenimiento.dll.config
+C:\His3000_INTEGRAL\His3000\bin\His.Mantenimiento.dll
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses
+C:\His3000_INTEGRAL\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Mantenimiento.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Encriptar.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmCatalogosCostosTipo.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Bancos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Cajas.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Catalogos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CategoriasConvenios.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatlogoCostos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Categoria.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Ciudad.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Departamentos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_DivisionPolitica.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Empresa.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Estaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_local.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControl.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_NumeroControlCajas.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_OpcionesAcceso.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pais.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Pedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PedidosCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Perfiles.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PermisosCambioEstadosCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_precios.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_PreciosConvenios.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_CatalogoTipo.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Servicios.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoMedico.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_TipoNegocio.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Usuario.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_Zona.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.frm_ZonaEdicion.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Menu.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Mantenimiento.dll.config
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Mantenimiento.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.Crystal.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalEnterpriseLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalPluginMgrLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalReportsControllersLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalReportSourceLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Mantenimiento\obj\Debug\Interop.ReportAppServerWebAdminPlugLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\His.Mantenimiento.csprojResolveAssemblyReference.cache
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.Crystal.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalEnterpriseLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalInfoStoreLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalPluginMgrLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportConvToolPluginLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportPluginLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportsControllersLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportSourceLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\Interop.ReportAppServerWebAdminPlugLib.dll
+C:\HIS\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.ResolveComReference.cache
+C:\HIS\His.Mantenimiento\obj\Debug\His.Mantenimiento.MDI_Mantenimiento.resources
+C:\HIS\His.Mantenimiento\obj\Debug\His.Mantenimiento.Properties.Resources.resources
+C:\HIS\His.Mantenimiento\obj\Debug\His.Mantenimiento.csproj.GenerateResource.Cache
+C:\HIS\His.Mantenimiento\obj\Debug\His.Mantenimiento.dll.licenses

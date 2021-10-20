@@ -1,0 +1,63 @@
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Datos.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Datos.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.Datos\obj\Debug\His.Datos.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Datos\obj\Debug\His.Datos.pdb
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\bin\His.Datos.dll
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\bin\His.Datos.pdb
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\His.Datos\obj\Debug\His.Datos.dll
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\His.Datos\obj\Debug\His.Datos.pdb
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+C:\His3000_PASTEUR\His3000\bin\His.Datos.dll
+C:\His3000_PASTEUR\His3000\bin\His.Datos.pdb
+C:\His3000_PASTEUR\His3000\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+C:\His3000_PASTEUR\His3000\His.Datos\obj\Debug\His.Datos.dll
+C:\His3000_PASTEUR\His3000\His.Datos\obj\Debug\His.Datos.pdb
+C:\His3000_PASTEUR\His3000\His3000\bin\His.Datos.dll
+C:\His3000_PASTEUR\His3000\His3000\bin\His.Datos.pdb
+C:\His3000_PASTEUR\His3000\His3000\His.Datos\obj\Debug\His.Datos.dll
+C:\His3000_PASTEUR\His3000\His3000\His.Datos\obj\Debug\His.Datos.pdb
+C:\His3000_PASTEUR\His3000\His3000\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.Datos.dll
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.Datos.pdb
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His.Datos\obj\Debug\His.Datos.dll
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His.Datos\obj\Debug\His.Datos.pdb
+E:\Desarrollo\HIS\HIS\bin\His.Datos.dll
+E:\Desarrollo\HIS\HIS\bin\His.Datos.pdb
+E:\Desarrollo\HIS\HIS\His.Datos\obj\Debug\His.Datos.dll
+E:\Desarrollo\HIS\HIS\His.Datos\obj\Debug\His.Datos.pdb
+E:\Desarrollo\HIS\HIS\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+C:\HIS_generar\bin\His.Datos.dll
+C:\HIS_generar\bin\His.Datos.pdb
+C:\HIS_generar\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+C:\HIS_generar\His.Datos\obj\Debug\His.Datos.dll
+C:\HIS_generar\His.Datos\obj\Debug\His.Datos.pdb
+C:\HIS3000\HIS\bin\His.Datos.dll
+C:\HIS3000\HIS\bin\His.Datos.pdb
+C:\HIS3000\HIS\His.Datos\obj\Debug\His.Datos.dll
+C:\HIS3000\HIS\His.Datos\obj\Debug\His.Datos.pdb
+C:\HIS3000\HIS\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\bin\His.Datos.dll
+E:\Desarrollo\HIS\bin\His.Datos.pdb
+E:\Desarrollo\HIS\His.Datos\obj\Debug\His.Datos.dll
+E:\Desarrollo\HIS\His.Datos\obj\Debug\His.Datos.pdb
+C:\HIS\bin\His.Datos.dll
+C:\HIS\bin\His.Datos.pdb
+C:\HIS\His.Datos\obj\Debug\His.Datos.dll
+C:\HIS\His.Datos\obj\Debug\His.Datos.pdb
+R:\HIS\bin\His.Datos.dll
+R:\HIS\bin\His.Datos.pdb
+R:\HIS\His.Datos\obj\Debug\His.Datos.dll
+R:\HIS\His.Datos\obj\Debug\His.Datos.pdb
+E:\Desarrollo\HIS\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+R:\His3000_2021\bin\His.Datos.dll
+R:\His3000_2021\bin\His.Datos.pdb
+R:\His3000_2021\His.Datos\obj\Debug\His.Datos.dll
+R:\His3000_2021\His.Datos\obj\Debug\His.Datos.pdb
+R:\His3000_2021\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache
+R:\HIS3000\bin\His.Datos.dll
+R:\HIS3000\bin\His.Datos.pdb
+R:\HIS3000\His.Datos\obj\Debug\His.Datos.dll
+R:\HIS3000\His.Datos\obj\Debug\His.Datos.pdb
+R:\HIS3000\His.Datos\obj\Debug\His.Datos.csprojResolveAssemblyReference.cache

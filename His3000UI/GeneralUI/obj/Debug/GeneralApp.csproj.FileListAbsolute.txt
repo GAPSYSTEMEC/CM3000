@@ -1,0 +1,241 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\GeneralApp.dll.config
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\GeneralApp.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\GeneralApp.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\His3000(5)\His3000\bin\GeneralApp.dll.config
+C:\His3000(5)\His3000\bin\GeneralApp.dll
+C:\His3000(5)\His3000\bin\GeneralApp.pdb
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\His3000(5)\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\His3000Facturacion\His3000\bin\GeneralApp.dll.config
+C:\His3000Facturacion\His3000\bin\GeneralApp.dll
+C:\His3000Facturacion\His3000\bin\GeneralApp.pdb
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\His3000Facturacion\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\His3000Facturacion_integral\His3000\bin\GeneralApp.dll.config
+C:\His3000Facturacion_integral\His3000\bin\GeneralApp.dll
+C:\His3000Facturacion_integral\His3000\bin\GeneralApp.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\His3000Facturacion_integral\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\His3000_INTEGRAL\His3000\bin\GeneralApp.dll.config
+C:\His3000_INTEGRAL\His3000\bin\GeneralApp.dll
+C:\His3000_INTEGRAL\His3000\bin\GeneralApp.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\His3000_INTEGRAL\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\GeneralApp.dll.config
+C:\His3000_INTEGRAL MIG\His3000\bin\GeneralApp.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\GeneralApp.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+E:\Desarrollo\HIS\bin\GeneralApp.dll.config
+E:\Desarrollo\HIS\bin\GeneralApp.dll
+E:\Desarrollo\HIS\bin\GeneralApp.pdb
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\HIS\bin\GeneralApp.dll.config
+C:\HIS\bin\GeneralApp.dll
+C:\HIS\bin\GeneralApp.pdb
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.csprojResolveAssemblyReference.cache
+C:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+C:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+C:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+C:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.frmExplorador.resources
+C:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ExploradorLocal.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ExploradorLocal.resources
+E:\Desarrollo\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.frmExplorador.resources
+R:\HIS\bin\GeneralApp.dll.config
+R:\HIS\bin\GeneralApp.dll
+R:\HIS\bin\GeneralApp.pdb
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.csprojResolveAssemblyReference.cache
+R:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+R:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+R:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+R:\HIS\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ExploradorLocal.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.frmExplorador.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+R:\HIS\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+R:\His3000_2021\bin\GeneralApp.dll.config
+R:\His3000_2021\bin\GeneralApp.dll
+R:\His3000_2021\bin\GeneralApp.pdb
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ExploradorLocal.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.frmExplorador.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+R:\His3000_2021\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb
+R:\His3000\bin\GeneralApp.dll.config
+R:\His3000\bin\GeneralApp.dll
+R:\His3000\bin\GeneralApp.pdb
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csprojResolveAssemblyReference.cache
+R:\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.baml
+R:\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\Block.g.cs
+R:\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.g.cs
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.cache
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp_MarkupCompile.lref
+R:\His3000\His3000UI\GeneralUI\obj\Debug\ControlesWPF\LoadingAnimation.baml
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.g.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ClienteFTPVista.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.Editor.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.ExploradorLocal.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.frmExplorador.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.ControlesWinForms.InfPaciente.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.FrmAdministracion.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.Properties.Resources.resources
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.csproj.GenerateResource.Cache
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll.licenses
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.dll
+R:\His3000\His3000UI\GeneralUI\obj\Debug\GeneralApp.pdb

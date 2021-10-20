@@ -1,0 +1,92 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPacientes.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmActualizaFechas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAnticipos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAnticiposSic.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmArchivoPlanoIess.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaCategorias.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPlazoPago.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmConsultaCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCorreccionCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmExportarExel.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmFactura.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmFormasPago.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmHonorariosMedicosRpt.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmPaquetesCtas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmReporteDesgloseFactura.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPacientes.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCorreccioDesc.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPacientes.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.AgrupacionCuentasPacientes.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.DetalleCuentasCambiadas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAuditoriaCuenta.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaBancos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmActualizaFechas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAnticipos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAnticiposSic.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmArchivoPlanoIess.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaCategorias.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaFormasPagos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaProductos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPaciente.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPacientesIess.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaPlazoPago.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaProcediemtos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmAyudaTarifarios.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmConsolidarCuentas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmConsultaCuentas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCorreccioDesc.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCorreccionCuenta.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaDetalleAtencion.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaPaciente.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaPacienteMain.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmCuentaPacientesIess.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmDetalleCuenta.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmEliminarProductoCuenta.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmEstadoCuenta.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmExploradorAtenciones.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmExportarExel.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmFactura.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmFormasPago.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmHonorariosMedicosRpt.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmObsAuditoria.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmPaquetesCtas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmRecuperaClienteSIC.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmReporteDesgloseFactura.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmReportes.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.FrmRevisionCuentas.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmRubrosFactura.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.MDICuentaPaciente.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmPedidos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmPedidosPaciente.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.frmValoresAutomaticos.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.Properties.Resources.resources
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPacientes.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Release\CuentaPaciente.dll.licenses

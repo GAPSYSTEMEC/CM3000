@@ -1,0 +1,83 @@
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\frmAyudaHabitaciones.baml
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\frmAyudaHabitaciones.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision_MarkupCompile.cache
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.g.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmAdmisionEmergencia.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmControlesWPF.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmEmergenciaProcedimientos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmExploradorMicrofilms.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmHistorialHabitaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.FrmLaboratorio.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmReportaGarantias.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.FrmTarifario.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_AyudaCatalogoSubNivel.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_AyudaPacientes.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_Ayudas.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_EstadoHabitaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_ExploradorHabitaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_ExploradorIngresos.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_ExploraPacientes.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_Admision.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_FormulariosHCU.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_Habitaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_ListaFormularios.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.frm_MedicoTemporal.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.FrmRevertirSalida.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.ImpresionCertificado.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.MDI_Admision.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His.Admision\obj\Release\His.Admision.dll.licenses
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.csproj.ResolveComReference.cache
+R:\His3000_2021\His.Admision\obj\Release\frmAyudaHabitaciones.baml
+R:\His3000_2021\His.Admision\obj\Release\frmAyudaHabitaciones.g.cs
+R:\His3000_2021\His.Admision\obj\Release\His.Admision_MarkupCompile.cache
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.g.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_ExploradorFormularios.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmAdmisionEmergencia.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmAyudaProductos.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmCheckListHc.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmControlesWPF.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmEmergenciaProcedimientos.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmExploradorControlAyuda.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmExploradorControlHC.resources
+R:\His3000_2021\His.Admision\obj\Release\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmExploradorMicrofilms.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmHistorialHabitaciones.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmImpresionPedidos.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.FrmLaboratorio.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmReportaGarantias.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmReporteDefunciones.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frmReportes.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.FrmTarifario.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_AyudaCatalogoSubNivel.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_AyudaPacientes.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_Ayudas.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_CensoDiario.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_CierreAdmisiones.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_Devolucion.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_Egreso_preview.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_EstadoHabitaciones.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_ExploradorHabitaciones.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_ExploradorIngresos.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_ExploradorRubros.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_ExploraPacientes.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_Admision.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_FormulariosHCU.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_Habitaciones.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_Imagenologia.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_ListaFormularios.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.frm_MedicoTemporal.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.FrmRevertirSalida.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.ImpresionCertificado.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.INEN.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.MDI_Admision.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.Properties.Resources.resources
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.csproj.GenerateResource.Cache
+R:\His3000_2021\His.Admision\obj\Release\His.Admision.dll.licenses
+R:\His3000_2021\His.Admision\obj\Release\RdlCompile.cache
+R:\His3000_2021\His.Admision\obj\Release\RdlCompile.compiled

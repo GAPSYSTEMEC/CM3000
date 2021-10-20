@@ -1,0 +1,48 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Entidades.General.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Entidades.General.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Entidades\His.Entidades.General\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+C:\His3000(5)\His3000\bin\His.Entidades.General.dll
+C:\His3000(5)\His3000\bin\His.Entidades.General.pdb
+C:\His3000(5)\His3000\His3000Entidades\His.Entidades.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+C:\His3000(5)\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+C:\His3000Facturacion\His3000\bin\His.Entidades.General.dll
+C:\His3000Facturacion\His3000\bin\His.Entidades.General.pdb
+C:\His3000Facturacion\His3000\His3000Entidades\His.Entidades.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+C:\His3000Facturacion\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+C:\His3000Facturacion_integral\His3000\bin\His.Entidades.General.dll
+C:\His3000Facturacion_integral\His3000\bin\His.Entidades.General.pdb
+C:\His3000Facturacion_integral\His3000\His3000Entidades\His.Entidades.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+C:\His3000Facturacion_integral\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+C:\His3000_INTEGRAL\His3000\bin\His.Entidades.General.dll
+C:\His3000_INTEGRAL\His3000\bin\His.Entidades.General.pdb
+C:\His3000_INTEGRAL\His3000\His3000Entidades\His.Entidades.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+C:\His3000_INTEGRAL\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Entidades.General.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Entidades.General.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+E:\Desarrollo\HIS\bin\His.Entidades.General.dll
+E:\Desarrollo\HIS\bin\His.Entidades.General.pdb
+E:\Desarrollo\HIS\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+E:\Desarrollo\HIS\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+E:\Desarrollo\HIS\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.csprojResolveAssemblyReference.cache
+R:\HIS\bin\His.Entidades.General.dll
+R:\HIS\bin\His.Entidades.General.pdb
+R:\HIS\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.csprojResolveAssemblyReference.cache
+R:\HIS\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+R:\HIS\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+R:\His3000_2021\bin\His.Entidades.General.dll
+R:\His3000_2021\bin\His.Entidades.General.pdb
+R:\His3000_2021\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+R:\His3000_2021\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb
+R:\His3000\bin\His.Entidades.General.dll
+R:\His3000\bin\His.Entidades.General.pdb
+R:\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.dll
+R:\His3000\His3000Entidades\His.Entidades.General\obj\Debug\His.Entidades.General.pdb

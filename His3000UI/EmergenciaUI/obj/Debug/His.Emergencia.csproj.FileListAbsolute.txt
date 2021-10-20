@@ -1,0 +1,350 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Emergencia.dll.config
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Emergencia.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Emergencia.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+C:\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000(5)\His3000\bin\His.Emergencia.dll.config
+C:\His3000(5)\His3000\bin\His.Emergencia.dll
+C:\His3000(5)\His3000\bin\His.Emergencia.pdb
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\His3000(5)\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+C:\His3000Facturacion\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion\His3000\bin\His.Emergencia.dll.config
+C:\His3000Facturacion\His3000\bin\His.Emergencia.dll
+C:\His3000Facturacion\His3000\bin\His.Emergencia.pdb
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+C:\His3000Facturacion\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+C:\His3000Facturacion_integral\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion_integral\His3000\bin\His.Emergencia.dll.config
+C:\His3000Facturacion_integral\His3000\bin\His.Emergencia.dll
+C:\His3000Facturacion_integral\His3000\bin\His.Emergencia.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\His3000Facturacion_integral\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\His3000_INTEGRAL\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL\His3000\bin\His.Emergencia.dll.config
+C:\His3000_INTEGRAL\His3000\bin\His.Emergencia.dll
+C:\His3000_INTEGRAL\His3000\bin\His.Emergencia.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\His3000_INTEGRAL\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Emergencia.dll.config
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Emergencia.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Emergencia.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+E:\Desarrollo\HIS\HIS\bin\Recursos\es-spanish-v2-whole.dict
+E:\Desarrollo\HIS\HIS\bin\His.Emergencia.dll.config
+E:\Desarrollo\HIS\HIS\bin\His.Emergencia.dll
+E:\Desarrollo\HIS\HIS\bin\His.Emergencia.pdb
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+E:\Desarrollo\HIS\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+E:\Desarrollo\HIS\bin\Recursos\es-spanish-v2-whole.dict
+E:\Desarrollo\HIS\bin\His.Emergencia.dll.config
+E:\Desarrollo\HIS\bin\His.Emergencia.dll
+E:\Desarrollo\HIS\bin\His.Emergencia.pdb
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+E:\Desarrollo\HIS\bin\Reportes\Admision\Contrato.rpt
+E:\Desarrollo\HIS\bin\Reportes\Admision\Contrato.cs
+E:\Desarrollo\HIS\bin\frmReportes.resx
+E:\Desarrollo\HIS\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+E:\Desarrollo\HIS\bin\frmReportes.cs
+E:\Desarrollo\HIS\bin\frmReportes.Designer.cs
+E:\Desarrollo\HIS\bin\Reportes\Admision\rPrimeraAtencion2.cs
+E:\Desarrollo\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Triaje.resources
+R:\HIS\bin\Reportes\Admision\Contrato.rpt
+R:\HIS\bin\Reportes\Admision\Contrato.cs
+R:\HIS\bin\Recursos\es-spanish-v2-whole.dict
+R:\HIS\bin\frmReportes.resx
+R:\HIS\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+R:\HIS\bin\frmReportes.cs
+R:\HIS\bin\frmReportes.Designer.cs
+R:\HIS\bin\Reportes\Admision\rPrimeraAtencion2.cs
+R:\HIS\bin\His.Emergencia.dll.config
+R:\HIS\bin\His.Emergencia.dll
+R:\HIS\bin\His.Emergencia.pdb
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Triaje.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+R:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+C:\HIS\bin\Reportes\Admision\Contrato.rpt
+C:\HIS\bin\Reportes\Admision\Contrato.cs
+C:\HIS\bin\Recursos\es-spanish-v2-whole.dict
+C:\HIS\bin\frmReportes.resx
+C:\HIS\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\HIS\bin\frmReportes.cs
+C:\HIS\bin\frmReportes.Designer.cs
+C:\HIS\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\HIS\bin\His.Emergencia.dll.config
+C:\HIS\bin\His.Emergencia.dll
+C:\HIS\bin\His.Emergencia.pdb
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Triaje.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+C:\HIS\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+R:\His3000_2021\bin\Reportes\Admision\Contrato.rpt
+R:\His3000_2021\bin\Reportes\Admision\Contrato.cs
+R:\His3000_2021\bin\Recursos\es-spanish-v2-whole.dict
+R:\His3000_2021\bin\frmReportes.resx
+R:\His3000_2021\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+R:\His3000_2021\bin\frmReportes.cs
+R:\His3000_2021\bin\frmReportes.Designer.cs
+R:\His3000_2021\bin\Reportes\Admision\rPrimeraAtencion2.cs
+R:\His3000_2021\bin\His.Emergencia.dll.config
+R:\His3000_2021\bin\His.Emergencia.dll
+R:\His3000_2021\bin\His.Emergencia.pdb
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Triaje.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+R:\His3000_2021\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb
+R:\HIS3000\bin\Reportes\Admision\Contrato.rpt
+R:\HIS3000\bin\Reportes\Admision\Contrato.cs
+R:\HIS3000\bin\Recursos\es-spanish-v2-whole.dict
+R:\HIS3000\bin\frmReportes.resx
+R:\HIS3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+R:\HIS3000\bin\frmReportes.cs
+R:\HIS3000\bin\frmReportes.Designer.cs
+R:\HIS3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+R:\HIS3000\bin\His.Emergencia.dll.config
+R:\HIS3000\bin\His.Emergencia.dll
+R:\HIS3000\bin\His.Emergencia.pdb
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csprojResolveAssemblyReference.cache
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frmAyudaMedicamentos.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaCatalogoSubNivel.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaEmergencias.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedicamentos.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaMedico.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_AyudaPacientes.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ayudas.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Catalogo.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_DescripcionSubSintoma.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Emergencia.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_InformeMorbilidad.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Ingreso.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Registro.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Reportes.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_TipoCatalogo.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.frm_Triaje.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.MDI_Emergencia.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.Properties.Resources.resources
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.csproj.GenerateResource.Cache
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll.licenses
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.dll
+R:\HIS3000\His3000UI\EmergenciaUI\obj\Debug\His.Emergencia.pdb

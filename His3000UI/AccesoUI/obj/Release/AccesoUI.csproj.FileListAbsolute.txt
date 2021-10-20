@@ -1,0 +1,29 @@
+C:\His3000_INTEGRAL MIG\His3000\bin\AccesoUI.exe.config
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\AccesoUI.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\Acceso.baml
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\CambiarClave.baml
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\login.baml
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\loginTarifario.baml
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\Acceso.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\CambiarClave.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\login.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\loginTarifario.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\App.g.cs
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\AccesoUI_MarkupCompile.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\AccesoUI.g.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\AccesoUI.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\AccesoUI\obj\Release\AccesoUI.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\AccesoUI.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\Acceso.baml
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\CambiarClave.baml
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\login.baml
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\loginTarifario.baml
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\Acceso.g.cs
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\CambiarClave.g.cs
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\login.g.cs
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\loginTarifario.g.cs
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\App.g.cs
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\AccesoUI_MarkupCompile.cache
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\AccesoUI.g.resources
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\AccesoUI.Properties.Resources.resources
+R:\His3000_2021\His3000UI\AccesoUI\obj\Release\AccesoUI.csproj.GenerateResource.Cache

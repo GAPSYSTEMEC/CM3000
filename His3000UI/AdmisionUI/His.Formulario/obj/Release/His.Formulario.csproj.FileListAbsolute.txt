@@ -1,0 +1,16 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Anemnesis.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Ayudas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Documentos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Emergencia.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Epicrisis.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Evolucion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Interconsulta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Odontograma.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Protocolo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.dll.licenses

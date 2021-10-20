@@ -1,0 +1,286 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Formulario.dll.config
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Formulario.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Formulario.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000(5)\His3000\bin\His.Formulario.dll.config
+C:\His3000(5)\His3000\bin\His.Formulario.dll
+C:\His3000(5)\His3000\bin\His.Formulario.pdb
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000(5)\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000Facturacion\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion\His3000\bin\His.Formulario.dll.config
+C:\His3000Facturacion\His3000\bin\His.Formulario.dll
+C:\His3000Facturacion\His3000\bin\His.Formulario.pdb
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000Facturacion\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000Facturacion_integral\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion_integral\His3000\bin\His.Formulario.dll.config
+C:\His3000Facturacion_integral\His3000\bin\His.Formulario.dll
+C:\His3000Facturacion_integral\His3000\bin\His.Formulario.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000Facturacion_integral\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000_INTEGRAL\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL\His3000\bin\His.Formulario.dll.config
+C:\His3000_INTEGRAL\His3000\bin\His.Formulario.dll
+C:\His3000_INTEGRAL\His3000\bin\His.Formulario.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000_INTEGRAL\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Formulario.dll.config
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Formulario.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Formulario.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000_PASTEUR\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_PASTEUR\His3000\bin\His.Formulario.dll.config
+C:\His3000_PASTEUR\His3000\bin\His.Formulario.dll
+C:\His3000_PASTEUR\His3000\bin\His.Formulario.pdb
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000_PASTEUR\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\His3000_PASTEUR\His3000\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_PASTEUR\His3000\His3000\bin\His.Formulario.dll.config
+C:\His3000_PASTEUR\His3000\His3000\bin\His.Formulario.dll
+C:\His3000_PASTEUR\His3000\His3000\bin\His.Formulario.pdb
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\Recursos\es-spanish-v2-whole.dict
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.Formulario.dll.config
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.Formulario.dll
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.Formulario.pdb
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_EvolucionEnfermeras.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Imagen.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_ImagenAyuda.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.ImprimeNotasEvolucion.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\RdlCompile.cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\RdlCompile.compiled
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+C:\HIS\bin\Recursos\es-spanish-v2-whole.dict
+C:\HIS\bin\His.Formulario.dll.config
+C:\HIS\bin\His.Formulario.dll
+C:\HIS\bin\His.Formulario.pdb
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_EvolucionEnfermeras.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Imagen.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_ImagenAyuda.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.ImprimeNotasEvolucion.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+C:\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+E:\Desarrollo\HIS\HIS\bin\Recursos\es-spanish-v2-whole.dict
+E:\Desarrollo\HIS\HIS\bin\His.Formulario.dll.config
+E:\Desarrollo\HIS\HIS\bin\His.Formulario.dll
+E:\Desarrollo\HIS\HIS\bin\His.Formulario.pdb
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_EvolucionEnfermeras.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Imagen.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_ImagenAyuda.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.ImprimeNotasEvolucion.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\RdlCompile.cache
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\RdlCompile.compiled
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+E:\Desarrollo\HIS\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb
+E:\Desarrollo\HIS\bin\Recursos\es-spanish-v2-whole.dict
+E:\Desarrollo\HIS\bin\His.Formulario.dll.config
+E:\Desarrollo\HIS\bin\His.Formulario.dll
+E:\Desarrollo\HIS\bin\His.Formulario.pdb
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmLaboratorioClinico.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frmReportes.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Anemnesis.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Ayudas.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_BusquedaCIE10.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Documentos.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Emergencia.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Epicrisis.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Evolucion.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_EvolucionEnfermeras.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Imagen.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_ImagenAyuda.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Interconsulta.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Odontograma.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.frm_Protocolo.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.ImprimeNotasEvolucion.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.Properties.Resources.resources
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll.licenses
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\RdlCompile.cache
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\RdlCompile.compiled
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.dll
+E:\Desarrollo\HIS\His3000UI\HistoriasUI\His.Formulario\obj\Debug\His.Formulario.pdb

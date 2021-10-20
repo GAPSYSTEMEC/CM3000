@@ -1,0 +1,11 @@
+C:\His3000_INTEGRAL MIG\His3000\bin\His.EntidadesAdmision.dll.config
+C:\His3000_INTEGRAL MIG\His3000\bin\His.EntidadesAdmision.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.EntidadesAdmision.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.EntidadesAdmision\obj\Release\His.EntidadesAdmision.dll
+C:\His3000_INTEGRAL MIG\His3000\His.EntidadesAdmision\obj\Release\His.EntidadesAdmision.pdb
+R:\His3000_2021\bin\His.EntidadesAdmision.dll.config
+R:\His3000_2021\bin\His.EntidadesAdmision.dll
+R:\His3000_2021\bin\His.EntidadesAdmision.pdb
+R:\His3000_2021\His.EntidadesAdmision\obj\Release\His.EntidadesAdmision.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.EntidadesAdmision\obj\Release\His.EntidadesAdmision.dll
+R:\His3000_2021\His.EntidadesAdmision\obj\Release\His.EntidadesAdmision.pdb

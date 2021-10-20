@@ -1,0 +1,9 @@
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.frm_ExploradorFormularios.resources
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.frmAyuda.resources
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.Form1.resources
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.frmPreAutorizacion.resources
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.frmReporteGarantia.resources
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.Properties.Resources.resources
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\His.Garantia\obj\Release\His.Garantia.dll.licenses

@@ -1,0 +1,30 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmAreas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmComentarios.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmConsultaPedido.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmEstaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmExplorardorPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmMonitoreoPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmProductosPorAreas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmSeleccionArea.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmUsuariosPorAreas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.MDIPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.dll.licenses
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmAreas.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmComentarios.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmConsultaPedido.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmEstaciones.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmExplorardorPedidos.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmMonitoreoPedidos.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmProductosPorAreas.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmReportes.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmSeleccionArea.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.frmUsuariosPorAreas.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.MDIPedidos.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.Properties.Resources.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Release\His.Pedidos.dll.licenses

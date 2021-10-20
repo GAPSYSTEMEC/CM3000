@@ -1,0 +1,10 @@
+C:\His3000_INTEGRAL MIG\His3000\bin\His.DatosReportes.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.DatosReportes.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.DatosReportes\obj\Release\His.DatosReportes.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His.DatosReportes\obj\Release\His.DatosReportes.dll
+C:\His3000_INTEGRAL MIG\His3000\His.DatosReportes\obj\Release\His.DatosReportes.pdb
+R:\His3000_2021\bin\His.DatosReportes.dll
+R:\His3000_2021\bin\His.DatosReportes.pdb
+R:\His3000_2021\His.DatosReportes\obj\Release\His.DatosReportes.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.DatosReportes\obj\Release\His.DatosReportes.dll
+R:\His3000_2021\His.DatosReportes\obj\Release\His.DatosReportes.pdb

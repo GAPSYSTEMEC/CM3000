@@ -1,0 +1,190 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.AdminHistoriasClinicas.dll.config
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.AdminHistoriasClinicas.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.AdminHistoriasClinicas.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+C:\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis.cs
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+C:\His3000(5)\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+C:\His3000(5)\His3000\bin\His.AdminHistoriasClinicas.dll.config
+C:\His3000(5)\His3000\bin\His.AdminHistoriasClinicas.dll
+C:\His3000(5)\His3000\bin\His.AdminHistoriasClinicas.pdb
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+C:\His3000(5)\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+C:\His3000Facturacion\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\epicrisis.cs
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+C:\His3000Facturacion\His3000\bin\His.AdminHistoriasClinicas.dll.config
+C:\His3000Facturacion\His3000\bin\His.AdminHistoriasClinicas.dll
+C:\His3000Facturacion\His3000\bin\His.AdminHistoriasClinicas.pdb
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+C:\His3000Facturacion\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+C:\His3000Facturacion_integral\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\epicrisis.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+C:\His3000Facturacion_integral\His3000\bin\His.AdminHistoriasClinicas.dll.config
+C:\His3000Facturacion_integral\His3000\bin\His.AdminHistoriasClinicas.dll
+C:\His3000Facturacion_integral\His3000\bin\His.AdminHistoriasClinicas.pdb
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+C:\His3000Facturacion_integral\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+C:\His3000_INTEGRAL\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\epicrisis.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+C:\His3000_INTEGRAL\His3000\bin\His.AdminHistoriasClinicas.dll.config
+C:\His3000_INTEGRAL\His3000\bin\His.AdminHistoriasClinicas.dll
+C:\His3000_INTEGRAL\His3000\bin\His.AdminHistoriasClinicas.pdb
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+C:\His3000_INTEGRAL\His3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+C:\HIS\bin\Recursos\es-spanish-v2-whole.dict
+C:\HIS\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+C:\HIS\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+C:\HIS\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+C:\HIS\bin\Reportes\HistoriasClinicas\epicrisis.cs
+C:\HIS\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+C:\HIS\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+C:\HIS\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+C:\HIS\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+C:\HIS\bin\His.AdminHistoriasClinicas.dll.config
+C:\HIS\bin\His.AdminHistoriasClinicas.dll
+C:\HIS\bin\His.AdminHistoriasClinicas.pdb
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csprojResolveAssemblyReference.cache
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+C:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+E:\Desarrollo\HIS\bin\Recursos\es-spanish-v2-whole.dict
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\epicrisis.cs
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+E:\Desarrollo\HIS\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+E:\Desarrollo\HIS\bin\His.AdminHistoriasClinicas.dll.config
+E:\Desarrollo\HIS\bin\His.AdminHistoriasClinicas.dll
+E:\Desarrollo\HIS\bin\His.AdminHistoriasClinicas.pdb
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+E:\Desarrollo\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+R:\HIS\bin\Recursos\es-spanish-v2-whole.dict
+R:\HIS\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+R:\HIS\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+R:\HIS\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+R:\HIS\bin\Reportes\HistoriasClinicas\epicrisis.cs
+R:\HIS\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+R:\HIS\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+R:\HIS\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+R:\HIS\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+R:\HIS\bin\His.AdminHistoriasClinicas.dll.config
+R:\HIS\bin\His.AdminHistoriasClinicas.dll
+R:\HIS\bin\His.AdminHistoriasClinicas.pdb
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csprojResolveAssemblyReference.cache
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+R:\HIS\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+R:\His3000_2021\bin\Recursos\es-spanish-v2-whole.dict
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\epicrisis.cs
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+R:\His3000_2021\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+R:\His3000_2021\bin\His.AdminHistoriasClinicas.dll.config
+R:\His3000_2021\bin\His.AdminHistoriasClinicas.dll
+R:\His3000_2021\bin\His.AdminHistoriasClinicas.pdb
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb
+R:\HIS3000\bin\Recursos\es-spanish-v2-whole.dict
+R:\HIS3000\bin\Reportes\HistoriasClinicas\epicrisis.rpt
+R:\HIS3000\bin\Reportes\HistoriasClinicas\epicrisis2.rpt
+R:\HIS3000\bin\Reportes\HistoriasClinicas\rEvolucion.rpt
+R:\HIS3000\bin\Reportes\HistoriasClinicas\epicrisis.cs
+R:\HIS3000\bin\Reportes\HistoriasClinicas\epicrisis2.cs
+R:\HIS3000\bin\Reportes\HistoriasClinicas\rEvolucion.cs
+R:\HIS3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.rpt
+R:\HIS3000\bin\Reportes\HistoriasClinicas\rPrimeraAtencion.cs
+R:\HIS3000\bin\His.AdminHistoriasClinicas.dll.config
+R:\HIS3000\bin\His.AdminHistoriasClinicas.dll
+R:\HIS3000\bin\His.AdminHistoriasClinicas.pdb
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csprojResolveAssemblyReference.cache
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.Properties.Resources.resources
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll.licenses
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.dll
+R:\HIS3000\His.AdminHistoriasClinicas\obj\Debug\His.AdminHistoriasClinicas.pdb

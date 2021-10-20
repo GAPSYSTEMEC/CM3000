@@ -1,0 +1,35 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Core.Utilitarios.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Core.Utilitarios.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core.Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb
+C:\His3000(5)\His3000\bin\Core.Utilitarios.dll
+C:\His3000(5)\His3000\bin\Core.Utilitarios.pdb
+C:\His3000(5)\His3000\Core.Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+C:\His3000(5)\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb
+C:\His3000Facturacion_integral\His3000\bin\Core.Utilitarios.dll
+C:\His3000Facturacion_integral\His3000\bin\Core.Utilitarios.pdb
+C:\His3000Facturacion_integral\His3000\Core.Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+C:\His3000Facturacion_integral\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb
+C:\His3000_INTEGRAL\His3000\bin\Core.Utilitarios.dll
+C:\His3000_INTEGRAL\His3000\bin\Core.Utilitarios.pdb
+C:\His3000_INTEGRAL\His3000\Core.Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+C:\His3000_INTEGRAL\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\Core.Utilitarios.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\Core.Utilitarios.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+C:\His3000_INTEGRAL MIG\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.csprojResolveAssemblyReference.cache
+R:\His3000_2021\bin\Core.Utilitarios.dll
+R:\His3000_2021\bin\Core.Utilitarios.pdb
+R:\His3000_2021\Core.Utilitarios\obj\Debug\Core.Utilitarios.csprojResolveAssemblyReference.cache
+R:\His3000_2021\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+R:\His3000_2021\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb
+R:\His3000\bin\Core.Utilitarios.dll
+R:\His3000\bin\Core.Utilitarios.pdb
+R:\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.csprojResolveAssemblyReference.cache
+R:\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.dll
+R:\His3000\Core.Utilitarios\obj\Debug\Core.Utilitarios.pdb

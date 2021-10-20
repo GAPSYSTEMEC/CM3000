@@ -1,0 +1,4 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Release\His.General.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Release\His.General.csproj.ResolveComReference.cache
+R:\His3000_2021\His3000Negocio\His.General\obj\Release\His.General.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000Negocio\His.General\obj\Release\His.General.csproj.ResolveComReference.cache

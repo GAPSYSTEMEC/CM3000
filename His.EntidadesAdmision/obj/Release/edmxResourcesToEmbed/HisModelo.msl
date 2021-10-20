@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="HIS3000BDModelStoreContainer" CdmEntityContainer="HIS3000BDEntAdmision">
+    <EntitySetMapping Name="HABITACIONES">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.HABITACIONES)">
+        <MappingFragment StoreEntitySet="HABITACIONES">
+          <ScalarProperty Name="hab_Codigo" ColumnName="hab_Codigo" />
+          <ScalarProperty Name="hab_Numero" ColumnName="hab_Numero" />
+          <ScalarProperty Name="hab_Padre" ColumnName="hab_Padre" />
+          <ScalarProperty Name="hab_Activo" ColumnName="hab_Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HABITACIONES_DETALLE">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.HABITACIONES_DETALLE)">
+        <MappingFragment StoreEntitySet="HABITACIONES_DETALLE">
+          <ScalarProperty Name="HAD_CODIGO" ColumnName="HAD_CODIGO" />
+          <ScalarProperty Name="ID_USUARIO" ColumnName="ID_USUARIO" />
+          <ScalarProperty Name="ATE_CODIGO" ColumnName="ATE_CODIGO" />
+          <ScalarProperty Name="HAD_FECHA_INGRESO" ColumnName="HAD_FECHA_INGRESO" />
+          <ScalarProperty Name="HAD_FECHA_ALTA_MEDICO" ColumnName="HAD_FECHA_ALTA_MEDICO" />
+          <ScalarProperty Name="HAD_FECHA_DISPONIBILIDAD" ColumnName="HAD_FECHA_DISPONIBILIDAD" />
+          <ScalarProperty Name="HAD_FECHA_FACTURACION" ColumnName="HAD_FECHA_FACTURACION" />
+          <ScalarProperty Name="HAD_REGISTRO_ANTERIOR" ColumnName="HAD_REGISTRO_ANTERIOR" />
+          <ScalarProperty Name="HAD_ENCARGADO" ColumnName="HAD_ENCARGADO" />
+          <ScalarProperty Name="HAD_OBSERVACION" ColumnName="HAD_OBSERVACION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HABITACIONES_ESTADO">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.HABITACIONES_ESTADO)">
+        <MappingFragment StoreEntitySet="HABITACIONES_ESTADO">
+          <ScalarProperty Name="HES_CODIGO" ColumnName="HES_CODIGO" />
+          <ScalarProperty Name="HES_NOMBRE" ColumnName="HES_NOMBRE" />
+          <ScalarProperty Name="HES_DESCRIPCION" ColumnName="HES_DESCRIPCION" />
+          <ScalarProperty Name="HES_COLOR" ColumnName="HES_COLOR" />
+          <ScalarProperty Name="HES_IMAGEN" ColumnName="HES_IMAGEN" />
+          <ScalarProperty Name="HES_ACTIVO" ColumnName="HES_ACTIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HABITACIONES_TIPO">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.HABITACIONES_TIPO)">
+        <MappingFragment StoreEntitySet="HABITACIONES_TIPO">
+          <ScalarProperty Name="HAT_CODIGO" ColumnName="HAT_CODIGO" />
+          <ScalarProperty Name="HAT_NOMBRE" ColumnName="HAT_NOMBRE" />
+          <ScalarProperty Name="HAT_ESTADO" ColumnName="HAT_ESTADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NIVEL_PISO">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.NIVEL_PISO)">
+        <MappingFragment StoreEntitySet="NIVEL_PISO">
+          <ScalarProperty Name="NIV_CODIGO" ColumnName="NIV_CODIGO" />
+          <ScalarProperty Name="NIV_NOMBRE" ColumnName="NIV_NOMBRE" />
+          <ScalarProperty Name="NIV_NUMERO_PISO" ColumnName="NIV_NUMERO_PISO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_HABITACIONES_DETALLE_HABITACIONES" TypeName="HIS3000BDModel.FK_HABITACIONES_DETALLE_HABITACIONES" StoreEntitySet="HABITACIONES_DETALLE">
+      <EndProperty Name="HABITACIONES">
+        <ScalarProperty Name="hab_Codigo" ColumnName="hab_Codigo" />
+      </EndProperty>
+      <EndProperty Name="HABITACIONES_DETALLE">
+        <ScalarProperty Name="HAD_CODIGO" ColumnName="HAD_CODIGO" />
+      </EndProperty>
+      <Condition ColumnName="hab_Codigo" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_HABITACIONES_HABITACIONES_ESTADO" TypeName="HIS3000BDModel.FK_HABITACIONES_HABITACIONES_ESTADO" StoreEntitySet="HABITACIONES">
+      <EndProperty Name="HABITACIONES_ESTADO">
+        <ScalarProperty Name="HES_CODIGO" ColumnName="HES_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="HABITACIONES">
+        <ScalarProperty Name="hab_Codigo" ColumnName="hab_Codigo" />
+      </EndProperty>
+      <Condition ColumnName="HES_CODIGO" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_HABITACIONES_HABITACIONES_TIPO" TypeName="HIS3000BDModel.FK_HABITACIONES_HABITACIONES_TIPO" StoreEntitySet="HABITACIONES">
+      <EndProperty Name="HABITACIONES_TIPO">
+        <ScalarProperty Name="HAT_CODIGO" ColumnName="HAT_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="HABITACIONES">
+        <ScalarProperty Name="hab_Codigo" ColumnName="hab_Codigo" />
+      </EndProperty>
+      <Condition ColumnName="HAT_CODIGO" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_HABITACIONES_NIVEL_PISO" TypeName="HIS3000BDModel.FK_HABITACIONES_NIVEL_PISO" StoreEntitySet="HABITACIONES">
+      <EndProperty Name="NIVEL_PISO">
+        <ScalarProperty Name="NIV_CODIGO" ColumnName="NIV_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="HABITACIONES">
+        <ScalarProperty Name="hab_Codigo" ColumnName="hab_Codigo" />
+      </EndProperty>
+      <Condition ColumnName="NIV_CODIGO" IsNull="false" />
+    </AssociationSetMapping>
+    <EntitySetMapping Name="CATALOGOS">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.CATALOGOS)">
+        <MappingFragment StoreEntitySet="CATALOGOS">
+          <ScalarProperty Name="CAD_CAMPO" ColumnName="CAD_CAMPO" />
+          <ScalarProperty Name="CAD_TABLA" ColumnName="CAD_TABLA" />
+          <ScalarProperty Name="CAD_VALOR" ColumnName="CAD_VALOR" />
+          <ScalarProperty Name="CAD_ESTADO" ColumnName="CAD_ESTADO" />
+          <ScalarProperty Name="CAD_PADRE" ColumnName="CAD_PADRE" />
+          <ScalarProperty Name="CAD_NOMBRE" ColumnName="CAD_NOMBRE" />
+          <ScalarProperty Name="CAD_CODIGO" ColumnName="CAD_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RUBROS">
+      <EntityTypeMapping TypeName="IsTypeOf(HIS3000BDModel.RUBROS)">
+        <MappingFragment StoreEntitySet="RUBROS">
+          <ScalarProperty Name="TIP_CODIGO" ColumnName="TIP_CODIGO" />
+          <ScalarProperty Name="RUB_ESTADO" ColumnName="RUB_ESTADO" />
+          <ScalarProperty Name="RUB_TIP_ASOCIADO" ColumnName="RUB_TIP_ASOCIADO" />
+          <ScalarProperty Name="RUB_ASOCIADO" ColumnName="RUB_ASOCIADO" />
+          <ScalarProperty Name="RUB_TIPO" ColumnName="RUB_TIPO" />
+          <ScalarProperty Name="RUB_NOMBRE" ColumnName="RUB_NOMBRE" />
+          <ScalarProperty Name="RUB_CODIGO" ColumnName="RUB_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

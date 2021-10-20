@@ -1,0 +1,47 @@
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.General.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.General.pdb
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\His.General.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\His.General.pdb
+C:\His3000(5)\His3000\bin\His.General.dll
+C:\His3000(5)\His3000\bin\His.General.pdb
+C:\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+C:\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\His.General.dll
+C:\His3000(5)\His3000\His3000Negocio\His.General\obj\Debug\His.General.pdb
+C:\His3000Facturacion\His3000\bin\His.General.dll
+C:\His3000Facturacion\His3000\bin\His.General.pdb
+C:\His3000Facturacion\His3000\His3000Negocio\His.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000Negocio\His.General\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\His3000Facturacion\His3000\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+C:\His3000Facturacion\His3000\His3000Negocio\His.General\obj\Debug\His.General.dll
+C:\His3000Facturacion\His3000\His3000Negocio\His.General\obj\Debug\His.General.pdb
+C:\His3000Facturacion_integral\His3000\bin\His.General.dll
+C:\His3000Facturacion_integral\His3000\bin\His.General.pdb
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.General\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.General\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.General\obj\Debug\His.General.dll
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.General\obj\Debug\His.General.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\His.General.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.General.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Debug\His.General.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Debug\His.General.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.General\obj\Debug\His.General.pdb
+R:\His3000_2021\bin\His.General.dll
+R:\His3000_2021\bin\His.General.pdb
+R:\His3000_2021\His3000Negocio\His.General\obj\Debug\His.General.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+R:\His3000_2021\His3000Negocio\His.General\obj\Debug\His.General.dll
+R:\His3000_2021\His3000Negocio\His.General\obj\Debug\His.General.pdb
+R:\HIS3000\bin\His.General.dll
+R:\HIS3000\bin\His.General.pdb
+R:\HIS3000\His3000Negocio\His.General\obj\Debug\His.General.csprojResolveAssemblyReference.cache
+R:\HIS3000\His3000Negocio\His.General\obj\Debug\His.General.csproj.ResolveComReference.cache
+R:\HIS3000\His3000Negocio\His.General\obj\Debug\His.General.dll
+R:\HIS3000\His3000Negocio\His.General\obj\Debug\His.General.pdb

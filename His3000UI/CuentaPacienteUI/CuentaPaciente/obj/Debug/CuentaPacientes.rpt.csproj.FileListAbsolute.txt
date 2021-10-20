@@ -1,0 +1,547 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAdmision.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAdmision.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Admision\Contrato.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\frmReportes.resx
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\frmReportes.Designer.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\frmReportes.cs
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\CuentaPaciente.dll.config
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\CuentaPaciente.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\CuentaPaciente.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb
+C:\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAdmision.cs
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\His3000(5)\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAdmision.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\His3000(5)\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\His3000(5)\His3000\bin\Reportes\Admision\Contrato.cs
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\His3000(5)\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\His3000(5)\His3000\bin\frmReportes.cs
+C:\His3000(5)\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\His3000(5)\His3000\bin\frmReportes.resx
+C:\His3000(5)\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\His3000(5)\His3000\bin\frmReportes.Designer.cs
+C:\His3000(5)\His3000\bin\CuentaPaciente.dll.config
+C:\His3000(5)\His3000\bin\CuentaPaciente.dll
+C:\His3000(5)\His3000\bin\CuentaPaciente.pdb
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb
+C:\His3000(5)\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Admision\Contrato.cs
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\His3000Facturacion\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\His3000Facturacion\His3000\bin\frmReportes.Designer.cs
+C:\His3000Facturacion\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\His3000Facturacion\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\His3000Facturacion\His3000\bin\frmReportes.resx
+C:\His3000Facturacion\His3000\bin\frmReportes.cs
+C:\His3000Facturacion\His3000\bin\CuentaPaciente.dll.config
+C:\His3000Facturacion\His3000\bin\CuentaPaciente.dll
+C:\His3000Facturacion\His3000\bin\CuentaPaciente.pdb
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmActualizaFechas.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticipos.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaCategorias.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmHonorariosMedicosRpt.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPaquetesCtas.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReporteDesgloseFactura.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsultaCuentas.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCorreccionCuenta.resources
+C:\His3000Facturacion\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmArchivoPlanoIess.resources
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Admision\Contrato.cs
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\His3000Facturacion_HCP\His3000\bin\frmReportes.Designer.cs
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\His3000Facturacion_HCP\His3000\bin\frmReportes.cs
+C:\His3000Facturacion_HCP\His3000\bin\frmReportes.resx
+C:\His3000Facturacion_HCP\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\His3000Facturacion_HCP\His3000\bin\CuentaPaciente.dll.config
+C:\His3000Facturacion_HCP\His3000\bin\CuentaPaciente.dll
+C:\His3000Facturacion_HCP\His3000\bin\CuentaPaciente.pdb
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmActualizaFechas.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticipos.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmArchivoPlanoIess.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaCategorias.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsultaCuentas.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCorreccionCuenta.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmHonorariosMedicosRpt.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPaquetesCtas.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReporteDesgloseFactura.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\His3000Facturacion_HCP\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmActualizaFechas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticipos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmArchivoPlanoIess.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaCategorias.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsultaCuentas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCorreccionCuenta.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmHonorariosMedicosRpt.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPaquetesCtas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReporteDesgloseFactura.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Admision\Contrato.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\His3000Facturacion_integral\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000Facturacion_integral\His3000\bin\frmReportes.resx
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\His3000Facturacion_integral\His3000\bin\frmReportes.cs
+C:\His3000Facturacion_integral\His3000\bin\frmReportes.Designer.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\His3000Facturacion_integral\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\His3000Facturacion_integral\His3000\bin\CuentaPaciente.dll.config
+C:\His3000Facturacion_integral\His3000\bin\CuentaPaciente.dll
+C:\His3000Facturacion_integral\His3000\bin\CuentaPaciente.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPlazoPago.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticiposSic.resources
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Admision\Contrato.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\His3000_INTEGRAL\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\His3000_INTEGRAL\His3000\bin\frmReportes.resx
+C:\His3000_INTEGRAL\His3000\bin\frmReportes.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\His3000_INTEGRAL\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\His3000_INTEGRAL\His3000\bin\frmReportes.Designer.cs
+C:\His3000_INTEGRAL\His3000\bin\CuentaPaciente.dll.config
+C:\His3000_INTEGRAL\His3000\bin\CuentaPaciente.dll
+C:\His3000_INTEGRAL\His3000\bin\CuentaPaciente.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmActualizaFechas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticipos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticiposSic.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmArchivoPlanoIess.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaCategorias.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPlazoPago.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsultaCuentas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCorreccionCuenta.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmHonorariosMedicosRpt.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPaquetesCtas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReporteDesgloseFactura.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\His3000_INTEGRAL\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Admision\Contrato.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Admision\Contrato.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Mantenimiento\rPreciosConvenios.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rPagoHonorarios.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rRecuperacionHonorarios.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\honorariosAtencion.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rBalanceApagarOpagado.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rBalancePagosCancelados.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rBalancePagosRealizados.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rHonorariosDiarios.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rMedicoFicha.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rMedicosTipoH.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rMedicosTipoM.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rMedicosTodos.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rNotaCreditoDebito.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rNotaCreditoDebitoInterna.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rNotaNDGeneral.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rNotasDAutReimpresion.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rNotasDebitoAInforme.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rNotasDebitoAutomaticas.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rRetencionAutReimpresion.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rRetenciones.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rRetencionesAInforme.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rRetencionesAutomaticas.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rRetencionGeneral.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rMedicosEspecialidad.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\Recursos\es-spanish-v2-whole.dict
+C:\His3000_INTEGRAL MIG\His3000\bin\frmReportes.resx
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Admision\rPrimeraAtencion2.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\frmReportes.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\frmReportes.Designer.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
+C:\His3000_INTEGRAL MIG\His3000\bin\Reportes\Honorarios\rCheque.rpt
+C:\His3000_INTEGRAL MIG\His3000\bin\CuentaPaciente.dll.config
+C:\His3000_INTEGRAL MIG\His3000\bin\CuentaPaciente.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\CuentaPaciente.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.DetalleCuentasCambiadas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmActualizaFechas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticipos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAnticiposSic.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmArchivoPlanoIess.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaCategorias.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaFormasPagos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProductos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesFacturacion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPacientesIess.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaPlazoPago.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaProcediemtos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmAyudaTarifarios.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsolidarCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmConsultaCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCorreccionCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCreacionPaqueteCuentas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaDetalleAtencion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacienteMain.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmCuentaPacientesIess.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmDetalleCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEliminarProductoCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmEstadoCuenta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExploradorAtenciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmExportarExel.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFactura.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmFormasPago.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmHonorariosMedicosRpt.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPaquetesCtas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReporteDesgloseFactura.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmRubrosFactura.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.MDICuentaPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmPedidosPaciente.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.frmValoresAutomaticos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPacientes.rpt.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\CuentaPacienteUI\CuentaPaciente\obj\Debug\CuentaPaciente.pdb

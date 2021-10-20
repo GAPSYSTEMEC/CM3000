@@ -1,0 +1,53 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Core.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Core.Entidades.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core\Core.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+C:\His3000(5)\His3000\bin\Core.Entidades.dll
+C:\His3000(5)\His3000\bin\Core.Entidades.pdb
+C:\His3000(5)\His3000\Core\Core.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\His3000(5)\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+C:\His3000Facturacion\His3000\bin\Core.Entidades.dll
+C:\His3000Facturacion\His3000\bin\Core.Entidades.pdb
+C:\His3000Facturacion\His3000\Core\Core.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\His3000Facturacion\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+C:\His3000Facturacion_integral\His3000\bin\Core.Entidades.dll
+C:\His3000Facturacion_integral\His3000\bin\Core.Entidades.pdb
+C:\His3000Facturacion_integral\His3000\Core\Core.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\His3000Facturacion_integral\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+C:\His3000_INTEGRAL\His3000\bin\Core.Entidades.dll
+C:\His3000_INTEGRAL\His3000\bin\Core.Entidades.pdb
+C:\His3000_INTEGRAL\His3000\Core\Core.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\His3000_INTEGRAL\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\Core.Entidades.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\Core.Entidades.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Entidades\obj\Debug\Core.Entidades.csprojResolveAssemblyReference.cache
+C:\HIS\bin\Core.Entidades.dll
+C:\HIS\bin\Core.Entidades.pdb
+C:\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.csprojResolveAssemblyReference.cache
+C:\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+C:\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+E:\Desarrollo\HIS\bin\Core.Entidades.dll
+E:\Desarrollo\HIS\bin\Core.Entidades.pdb
+E:\Desarrollo\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+E:\Desarrollo\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+R:\HIS\bin\Core.Entidades.dll
+R:\HIS\bin\Core.Entidades.pdb
+R:\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+R:\HIS\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+R:\His3000_2021\bin\Core.Entidades.dll
+R:\His3000_2021\bin\Core.Entidades.pdb
+R:\His3000_2021\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+R:\His3000_2021\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+R:\His3000_2021\Core\Core.Entidades\obj\Debug\Core.Entidades.csprojResolveAssemblyReference.cache
+R:\HIS3000\bin\Core.Entidades.dll
+R:\HIS3000\bin\Core.Entidades.pdb
+R:\HIS3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+R:\HIS3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+R:\HIS3000\Core\Core.Entidades\obj\Debug\Core.Entidades.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.IMailPlusLibrary\bin\Release\IMailPlusLibrary.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.IMailPlusLibrary\bin\Release\IMailPlusLibrary.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Release\IMailPlusLibrary.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Release\IMailPlusLibrary.pdb
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\bin\Release\IMailPlusLibrary.dll
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\bin\Release\IMailPlusLibrary.pdb
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\obj\Release\IMailPlusLibrary.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\obj\Release\IMailPlusLibrary.dll
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\obj\Release\IMailPlusLibrary.pdb

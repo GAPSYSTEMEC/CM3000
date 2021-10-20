@@ -1,0 +1,2 @@
+C:\His3000_INTEGRAL MIG\His3000\His.Datos\obj\Release\His.Datos.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.Datos\obj\Release\His.Datos.csprojResolveAssemblyReference.cache

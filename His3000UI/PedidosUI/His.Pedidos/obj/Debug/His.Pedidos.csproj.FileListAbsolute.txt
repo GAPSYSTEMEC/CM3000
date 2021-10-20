@@ -1,0 +1,208 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Pedidos.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\His.Pedidos.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+C:\His3000(5)\His3000\bin\His.Pedidos.dll
+C:\His3000(5)\His3000\bin\His.Pedidos.pdb
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+C:\His3000(5)\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+C:\His3000Facturacion\His3000\bin\His.Pedidos.dll
+C:\His3000Facturacion\His3000\bin\His.Pedidos.pdb
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+C:\His3000Facturacion\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\His3000_INTEGRAL\His3000\bin\His.Pedidos.dll
+C:\His3000_INTEGRAL\His3000\bin\His.Pedidos.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+C:\His3000_INTEGRAL\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Pedidos.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.Pedidos.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+E:\Desarrollo\HIS\bin\His.Pedidos.dll
+E:\Desarrollo\HIS\bin\His.Pedidos.pdb
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+E:\Desarrollo\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+R:\HIS\bin\His.Pedidos.dll
+R:\HIS\bin\His.Pedidos.pdb
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csprojResolveAssemblyReference.cache
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+R:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+C:\HIS\bin\His.Pedidos.dll
+C:\HIS\bin\His.Pedidos.pdb
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csprojResolveAssemblyReference.cache
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+C:\HIS\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+R:\HIS\bin\His.Pedidos.dll.config
+R:\His3000_2021\bin\His.Pedidos.dll.config
+R:\His3000_2021\bin\His.Pedidos.dll
+R:\His3000_2021\bin\His.Pedidos.pdb
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+R:\His3000_2021\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb
+R:\HIS3000\bin\Recursos\es-spanish-v2-whole.dict
+R:\HIS3000\bin\His.Pedidos.dll.config
+R:\HIS3000\bin\His.Pedidos.dll
+R:\HIS3000\bin\His.Pedidos.pdb
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csprojResolveAssemblyReference.cache
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmAreas.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmComentarios.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmConsultaPedido.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmEstaciones.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmExplorardorPedidos.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitorDevoluciones.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmMonitoreoPedidos.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmProductosPorAreas.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmReportes.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmSeleccionArea.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.frmUsuariosPorAreas.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.MDIPedidos.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.Properties.Resources.resources
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.csproj.GenerateResource.Cache
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll.licenses
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.dll
+R:\HIS3000\His3000UI\PedidosUI\His.Pedidos\obj\Debug\His.Pedidos.pdb

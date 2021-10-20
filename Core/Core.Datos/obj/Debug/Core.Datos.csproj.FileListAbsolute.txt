@@ -1,0 +1,54 @@
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Core.Datos.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\Core.Datos.pdb
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core\Core.Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+C:\His3000(5)\His3000\bin\Core.Datos.dll
+C:\His3000(5)\His3000\bin\Core.Datos.pdb
+C:\His3000(5)\His3000\Core\Core.Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+C:\His3000(5)\His3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+C:\His3000Facturacion\His3000\bin\Core.Datos.dll
+C:\His3000Facturacion\His3000\bin\Core.Datos.pdb
+C:\His3000Facturacion\His3000\Core\Core.Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+C:\His3000Facturacion\His3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+C:\His3000Facturacion_integral\His3000\bin\Core.Datos.dll
+C:\His3000Facturacion_integral\His3000\bin\Core.Datos.pdb
+C:\His3000Facturacion_integral\His3000\Core\Core.Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+C:\His3000Facturacion_integral\His3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+C:\His3000_INTEGRAL\His3000\bin\Core.Datos.dll
+C:\His3000_INTEGRAL\His3000\bin\Core.Datos.pdb
+C:\His3000_INTEGRAL\His3000\Core\Core.Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+C:\His3000_INTEGRAL\His3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\Core.Datos.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\Core.Datos.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Datos\obj\Debug\Core.Datos.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+E:\Desarrollo\HIS\bin\Core.Datos.dll
+E:\Desarrollo\HIS\bin\Core.Datos.pdb
+E:\Desarrollo\HIS\Core\Core.Datos\obj\Debug\Core.Datos.dll
+E:\Desarrollo\HIS\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+R:\His3000Alianza\HIS\bin\Core.Datos.dll
+R:\His3000Alianza\HIS\bin\Core.Datos.pdb
+R:\His3000Alianza\HIS\Core\Core.Datos\obj\Debug\Core.Datos.csprojResolveAssemblyReference.cache
+R:\His3000Alianza\HIS\Core\Core.Datos\obj\Debug\Core.Datos.dll
+R:\His3000Alianza\HIS\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+R:\HIS\bin\Core.Datos.dll
+R:\HIS\bin\Core.Datos.pdb
+R:\HIS\Core\Core.Datos\obj\Debug\Core.Datos.dll
+R:\HIS\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+R:\HIS\Core\Core.Datos\obj\Debug\Core.Datos.csprojResolveAssemblyReference.cache
+R:\His3000_2021\bin\Core.Datos.dll
+R:\His3000_2021\bin\Core.Datos.pdb
+R:\His3000_2021\Core\Core.Datos\obj\Debug\Core.Datos.dll
+R:\His3000_2021\Core\Core.Datos\obj\Debug\Core.Datos.pdb
+R:\His3000_2021\Core\Core.Datos\obj\Debug\Core.Datos.csprojResolveAssemblyReference.cache
+R:\HIS3000\bin\Core.Datos.dll
+R:\HIS3000\bin\Core.Datos.pdb
+R:\HIS3000\Core\Core.Datos\obj\Debug\Core.Datos.csprojResolveAssemblyReference.cache
+R:\HIS3000\Core\Core.Datos\obj\Debug\Core.Datos.dll
+R:\HIS3000\Core\Core.Datos\obj\Debug\Core.Datos.pdb

@@ -1,0 +1,26 @@
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\His.HabitacionesUI.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\App.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmAcerca.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmAsignarDieta.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmAsignarPaciente.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmCrearHabitacion.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmEliminarHabitaciones.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmEncargarPaciente.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmEstadosHabitaciones.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\EstilosTreeView.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmHistorisClinica.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmInfPaciente.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmModificarHabitaciones.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\Simple Styles.baml
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\App.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmAcerca.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmAsignarDieta.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmAsignarPaciente.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmCrearHabitacion.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmEliminarHabitaciones.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmEncargarPaciente.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmEstadosHabitaciones.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmHistorisClinica.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmInfPaciente.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\frmModificarHabitaciones.g.cs
+R:\His3000_2021\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Release\His.HabitacionesUI_MarkupCompile.cache

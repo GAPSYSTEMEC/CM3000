@@ -1,0 +1,54 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmLaboratorioClinico.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmReportes.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Anemnesis.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Ayudas.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_BusquedaCIE10.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Documentos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Emergencia.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Epicrisis.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Evolucion.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Interconsulta.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Odontograma.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Protocolo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.dll.licenses
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmLaboratorioClinico.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmLogin.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frmReportes.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_AyudaMedicoProtocolo.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Ayuda_Certificado.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Certificados.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_CuentaDesactivada.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_descargoInsumos.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_admisnitracionMedicamentos.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Anemnesis.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_AyudaKardex.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_AyudaMedicos.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_AyudaPacientes.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Ayudas.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_BusquedaCIE10.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Contrareferencia.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Documentos.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Emergencia.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Epicrisis.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Evolucion.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_EvolucionEnfermeras.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Imagen.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_ImagenAyuda.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Ingresos_Hospitalarios_Edades.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Interconsulta.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Odontograma.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Patologia.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Protocolo.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Receta.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.frm_Referencia.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.ImprimeNotasEvolucion.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.MDI_Medicos.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.Properties.Resources.resources
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\His.Formulario.dll.licenses
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\RdlCompile.cache
+R:\His3000_2021\His3000UI\HistoriasUI\His.Formulario\obj\Release\RdlCompile.compiled

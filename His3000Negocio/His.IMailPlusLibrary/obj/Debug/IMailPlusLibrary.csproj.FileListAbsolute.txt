@@ -1,0 +1,29 @@
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\IMailPlusLibrary.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\bin\IMailPlusLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.dll
+C:\Users\David\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.pdb
+C:\His3000(5)\His3000\bin\IMailPlusLibrary.dll
+C:\His3000(5)\His3000\bin\IMailPlusLibrary.pdb
+C:\His3000(5)\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.dll
+C:\His3000(5)\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.pdb
+C:\His3000Facturacion\His3000\bin\IMailPlusLibrary.dll
+C:\His3000Facturacion\His3000\bin\IMailPlusLibrary.pdb
+C:\His3000Facturacion\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.dll
+C:\His3000Facturacion\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.pdb
+C:\His3000Facturacion_integral\His3000\bin\IMailPlusLibrary.dll
+C:\His3000Facturacion_integral\His3000\bin\IMailPlusLibrary.pdb
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.dll
+C:\His3000Facturacion_integral\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.pdb
+C:\His3000_INTEGRAL MIG\His3000\bin\IMailPlusLibrary.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\IMailPlusLibrary.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.pdb
+R:\His3000_2021\bin\IMailPlusLibrary.dll
+R:\His3000_2021\bin\IMailPlusLibrary.pdb
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.dll
+R:\His3000_2021\His3000Negocio\His.IMailPlusLibrary\obj\Debug\IMailPlusLibrary.pdb

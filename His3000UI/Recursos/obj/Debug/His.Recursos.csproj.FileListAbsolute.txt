@@ -1,0 +1,65 @@
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Ejecutables\Recursos\His.Recursos.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\Ejecutables\Recursos\His.Recursos.pdb
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+C:\Users\usuario\Documents\Visual Studio 2008\Projects\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+C:\His3000(5)\His3000\Ejecutables\Recursos\His.Recursos.dll
+C:\His3000(5)\His3000\Ejecutables\Recursos\His.Recursos.pdb
+C:\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+C:\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+C:\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+C:\His3000(5)\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+C:\His3000Facturacion\His3000\Ejecutables\Recursos\His.Recursos.dll
+C:\His3000Facturacion\His3000\Ejecutables\Recursos\His.Recursos.pdb
+C:\His3000Facturacion\His3000\His3000UI\Recursos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+C:\His3000Facturacion\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+C:\His3000Facturacion\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+C:\His3000Facturacion\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+C:\His3000Facturacion_integral\His3000\Ejecutables\Recursos\His.Recursos.dll
+C:\His3000Facturacion_integral\His3000\Ejecutables\Recursos\His.Recursos.pdb
+C:\His3000Facturacion_integral\His3000\His3000UI\Recursos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000Facturacion_integral\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+C:\His3000Facturacion_integral\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+C:\His3000Facturacion_integral\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+C:\His3000Facturacion_integral\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+C:\His3000_INTEGRAL\His3000\Ejecutables\Recursos\His.Recursos.dll
+C:\His3000_INTEGRAL\His3000\Ejecutables\Recursos\His.Recursos.pdb
+C:\His3000_INTEGRAL\His3000\His3000UI\Recursos\obj\Debug\ResolveAssemblyReference.cache
+C:\His3000_INTEGRAL\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+C:\His3000_INTEGRAL\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+C:\His3000_INTEGRAL\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+C:\His3000_INTEGRAL MIG\His3000\Ejecutables\Recursos\His.Recursos.dll
+C:\His3000_INTEGRAL MIG\His3000\Ejecutables\Recursos\His.Recursos.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+E:\Desarrollo\HIS\Ejecutables\Recursos\His.Recursos.dll
+E:\Desarrollo\HIS\Ejecutables\Recursos\His.Recursos.pdb
+E:\Desarrollo\HIS\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+E:\Desarrollo\HIS\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+E:\Desarrollo\HIS\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+E:\Desarrollo\HIS\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+R:\HIS\Ejecutables\Recursos\His.Recursos.dll
+R:\HIS\Ejecutables\Recursos\His.Recursos.pdb
+R:\HIS\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+R:\HIS\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+R:\HIS\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+R:\HIS\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+R:\His3000_2021\Ejecutables\Recursos\His.Recursos.dll
+R:\His3000_2021\Ejecutables\Recursos\His.Recursos.pdb
+R:\His3000_2021\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+R:\His3000_2021\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+R:\His3000_2021\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+R:\His3000\Ejecutables\Recursos\His.Recursos.dll
+R:\His3000\Ejecutables\Recursos\His.Recursos.pdb
+R:\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+R:\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
+R:\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+R:\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb

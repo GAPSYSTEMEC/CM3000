@@ -1,0 +1,10 @@
+C:\His3000_INTEGRAL MIG\His3000\Comun\Core.Entidades.dll
+C:\His3000_INTEGRAL MIG\His3000\Comun\Core.Entidades.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Entidades\obj\Release\Core.Entidades.dll
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Entidades\obj\Release\Core.Entidades.pdb
+C:\His3000_INTEGRAL MIG\His3000\Core\Core.Entidades\obj\Release\Core.Entidades.csprojResolveAssemblyReference.cache
+R:\His3000_2021\Comun\Core.Entidades.dll
+R:\His3000_2021\Comun\Core.Entidades.pdb
+R:\His3000_2021\Core\Core.Entidades\obj\Release\Core.Entidades.csprojResolveAssemblyReference.cache
+R:\His3000_2021\Core\Core.Entidades\obj\Release\Core.Entidades.dll
+R:\His3000_2021\Core\Core.Entidades\obj\Release\Core.Entidades.pdb

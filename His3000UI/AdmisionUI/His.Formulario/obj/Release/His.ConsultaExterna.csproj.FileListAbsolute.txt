@@ -1,0 +1,13 @@
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.csproj.ResolveComReference.cache
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.Consulta.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.frmAyudaPacientesFacturacion.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.frm_AgendaCita.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.frmAyudaPacientes.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.frm_ConsultaAgenda.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.frm_ExploradorRubros.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.frm_Triaje.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.mdiConsultaExterna.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.Properties.Resources.resources
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\AdmisionUI\His.Formulario\obj\Release\His.ConsultaExterna.dll.licenses

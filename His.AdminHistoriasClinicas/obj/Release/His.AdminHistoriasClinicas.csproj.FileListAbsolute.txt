@@ -1,0 +1,5 @@
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Release\His.AdminHistoriasClinicas.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Release\His.AdminHistoriasClinicas.txtNombrePaciente.resources
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Release\His.AdminHistoriasClinicas.Properties.Resources.resources
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Release\His.AdminHistoriasClinicas.csproj.GenerateResource.Cache
+R:\His3000_2021\His.AdminHistoriasClinicas\obj\Release\His.AdminHistoriasClinicas.dll.licenses

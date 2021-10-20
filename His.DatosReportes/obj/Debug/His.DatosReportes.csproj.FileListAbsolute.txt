@@ -1,0 +1,63 @@
+C:\His3000_INTEGRAL MIG\His3000\bin\His.DatosReportes.dll
+C:\His3000_INTEGRAL MIG\His3000\bin\His.DatosReportes.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\His3000_INTEGRAL MIG\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\bin\His.DatosReportes.dll
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\bin\His.DatosReportes.pdb
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\His3000_INTEGRAL MIG - copia (2)\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+C:\His3000_PASTEUR\His3000\bin\His.DatosReportes.dll
+C:\His3000_PASTEUR\His3000\bin\His.DatosReportes.pdb
+C:\His3000_PASTEUR\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+C:\His3000_PASTEUR\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\His3000_PASTEUR\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\His3000_PASTEUR\His3000\His3000\bin\His.DatosReportes.dll
+C:\His3000_PASTEUR\His3000\His3000\bin\His.DatosReportes.pdb
+C:\His3000_PASTEUR\His3000\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\His3000_PASTEUR\His3000\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\His3000_PASTEUR\His3000\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.DatosReportes.dll
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\bin\His.DatosReportes.pdb
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+E:\Desarrollo\His3000_PASTEUR\His3000\His3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+E:\Desarrollo\HIS\HIS\bin\His.DatosReportes.dll
+E:\Desarrollo\HIS\HIS\bin\His.DatosReportes.pdb
+E:\Desarrollo\HIS\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+E:\Desarrollo\HIS\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+E:\Desarrollo\HIS\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+C:\HIS_generar\bin\His.DatosReportes.dll
+C:\HIS_generar\bin\His.DatosReportes.pdb
+C:\HIS_generar\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+C:\HIS_generar\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\HIS_generar\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\HIS3000\HIS\bin\His.DatosReportes.dll
+C:\HIS3000\HIS\bin\His.DatosReportes.pdb
+C:\HIS3000\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\HIS3000\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\HIS3000\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+E:\Desarrollo\HIS\bin\His.DatosReportes.dll
+E:\Desarrollo\HIS\bin\His.DatosReportes.pdb
+E:\Desarrollo\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+E:\Desarrollo\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+C:\HIS\bin\His.DatosReportes.dll
+C:\HIS\bin\His.DatosReportes.pdb
+C:\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+C:\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+R:\HIS\bin\His.DatosReportes.dll
+R:\HIS\bin\His.DatosReportes.pdb
+R:\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+R:\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+E:\Desarrollo\HIS\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+R:\His3000_2021\bin\His.DatosReportes.dll
+R:\His3000_2021\bin\His.DatosReportes.pdb
+R:\His3000_2021\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+R:\His3000_2021\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+R:\His3000_2021\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache
+R:\HIS3000\bin\His.DatosReportes.dll
+R:\HIS3000\bin\His.DatosReportes.pdb
+R:\HIS3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+R:\HIS3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+R:\HIS3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.csprojResolveAssemblyReference.cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.frm_AyudaProductos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.frm_ExploradorPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.frm_RealizarPedidos.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.MDIFarmacia.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.Properties.Resources.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.dll.licenses
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.frm_AyudaProductos.resources
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.frm_ExploradorPedidos.resources
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.frm_RealizarPedidos.resources
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.MDIFarmacia.resources
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.Properties.Resources.resources
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\FarmaciaUI\His.Farmacia\obj\Release\His.Farmacia.dll.licenses

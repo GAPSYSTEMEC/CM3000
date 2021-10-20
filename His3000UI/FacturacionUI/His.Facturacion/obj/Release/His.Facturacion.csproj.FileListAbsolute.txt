@@ -1,0 +1,8 @@
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.frmAyudaPaciente.resources
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.frmDetalleCuenta.resources
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.frmFactura.resources
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.MDIFacturacion.resources
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.Properties.Resources.resources
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\FacturacionUI\His.Facturacion\obj\Release\His.Facturacion.dll.licenses

@@ -1,0 +1,10 @@
+C:\His3000_INTEGRAL MIG\His3000\His.Parametros\bin\Release\His.Parametros.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Parametros\bin\Release\His.Parametros.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.Parametros\obj\Release\His.Parametros.dll
+C:\His3000_INTEGRAL MIG\His3000\His.Parametros\obj\Release\His.Parametros.pdb
+C:\His3000_INTEGRAL MIG\His3000\His.Parametros\obj\Release\His.Parametros.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.Parametros\bin\Release\His.Parametros.dll
+R:\His3000_2021\His.Parametros\bin\Release\His.Parametros.pdb
+R:\His3000_2021\His.Parametros\obj\Release\His.Parametros.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His.Parametros\obj\Release\His.Parametros.dll
+R:\His3000_2021\His.Parametros\obj\Release\His.Parametros.pdb

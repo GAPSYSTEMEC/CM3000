@@ -1,0 +1,13 @@
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\bin\Release\His.Recursos.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\bin\Release\His.Recursos.pdb
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Release\Recursos.Archivo.resources
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Release\His.Recursos.csproj.GenerateResource.Cache
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Release\His.Recursos.dll
+C:\His3000_INTEGRAL MIG\His3000\His3000UI\Recursos\obj\Release\His.Recursos.pdb
+R:\His3000_2021\His3000UI\Recursos\bin\Release\His.Recursos.dll
+R:\His3000_2021\His3000UI\Recursos\bin\Release\His.Recursos.pdb
+R:\His3000_2021\His3000UI\Recursos\obj\Release\His.Recursos.csprojResolveAssemblyReference.cache
+R:\His3000_2021\His3000UI\Recursos\obj\Release\Recursos.Archivo.resources
+R:\His3000_2021\His3000UI\Recursos\obj\Release\His.Recursos.csproj.GenerateResource.Cache
+R:\His3000_2021\His3000UI\Recursos\obj\Release\His.Recursos.dll
+R:\His3000_2021\His3000UI\Recursos\obj\Release\His.Recursos.pdb
