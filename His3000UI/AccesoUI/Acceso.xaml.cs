@@ -1087,5 +1087,11 @@ namespace AccesoUI
                 System.Windows.MessageBox.Show(err.Message, "error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
+
+        private void btnCitaMedica_Click(object sender, RoutedEventArgs e)
+        {
+            His.ConsultaExterna.MDICitaMedica x = new His.ConsultaExterna.MDICitaMedica();
+            x.Show();
+        }
     }
 }

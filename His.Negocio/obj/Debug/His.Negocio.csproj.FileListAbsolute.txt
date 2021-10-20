@@ -43,3 +43,10 @@ R:\HIS3000\bin\His.Negocio.pdb
 R:\HIS3000\His.Negocio\obj\Debug\His.Negocio.csprojResolveAssemblyReference.cache
 R:\HIS3000\His.Negocio\obj\Debug\His.Negocio.dll
 R:\HIS3000\His.Negocio\obj\Debug\His.Negocio.pdb
+R:\CM3000\bin\His.Negocio.dll
+R:\CM3000\bin\His.Negocio.pdb
+R:\CM3000\His.Negocio\obj\Debug\His.Negocio.csprojAssemblyReference.cache
+R:\CM3000\His.Negocio\obj\Debug\His.Negocio.csproj.CoreCompileInputs.cache
+R:\CM3000\His.Negocio\obj\Debug\His.Negocio.csproj.CopyComplete
+R:\CM3000\His.Negocio\obj\Debug\His.Negocio.dll
+R:\CM3000\His.Negocio\obj\Debug\His.Negocio.pdb
