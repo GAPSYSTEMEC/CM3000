@@ -166,7 +166,6 @@ R:\CM3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
 R:\CM3000\bin\His.ConsultaExterna.dll.config
 R:\CM3000\bin\His.ConsultaExterna.dll
 R:\CM3000\bin\His.ConsultaExterna.pdb
-R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.csprojAssemblyReference.cache
 R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.csproj.ResolveComReference.cache
 R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.Consulta.resources
 R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.frmAyudaPacientesFacturacion.resources
@@ -186,3 +185,4 @@ R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.dll
 R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.pdb
 R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.frm_CitaMedica.resources
 R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.MDICitaMedica.resources
+R:\CM3000\His3000UI\AdmisionUI\His.Formulario\obj\Debug\His.ConsultaExterna.csprojAssemblyReference.cache

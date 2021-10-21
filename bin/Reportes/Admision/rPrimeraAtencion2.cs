@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace His.Maintenance.Reportes.Admision {
+namespace His.Admision.Reportes.Admision {
     using System;
     using System.ComponentModel;
     using CrystalDecisions.Shared;
@@ -41,7 +41,7 @@ namespace His.Maintenance.Reportes.Admision {
         
         public override string FullResourceName {
             get {
-                return "His.Maintenance.Reportes.Admision.rPrimeraAtencion2.rpt";
+                return "His.Admision.Reportes.Admision.rPrimeraAtencion2.rpt";
             }
             set {
                 // Do nothing

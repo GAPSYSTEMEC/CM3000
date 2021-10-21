@@ -400,6 +400,21 @@
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HIS-NUEVO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HIS-EDITAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HIS-GUARDAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HIS-CANCELAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HIS-SALIR.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

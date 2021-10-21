@@ -57,6 +57,10 @@ namespace His.Negocio
         {
             return new DatAtenciones().CrearAtencionSP(atencion, CodigoDatosAdicionales, Nuevo);
         }
+        public static DataTable CrearAtencionSPConsultaExterna(ATENCIONES atencion, int CodigoDatosAdicionales, Boolean Nuevo)
+        {
+            return new DatAtenciones().CrearAtencionSPConsultaExterna(atencion, CodigoDatosAdicionales, Nuevo);
+        }
 
         public static void GrabarAtencion(ATENCIONES atencionModificado, ATENCIONES atencionOriginal)
         {

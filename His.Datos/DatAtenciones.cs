@@ -1337,6 +1337,209 @@ namespace His.Datos
             return Dts.Tables["tabla"];
         }
 
+        public DataTable CrearAtencionSPConsultaExterna(ATENCIONES atencion, int CodigoDatosAdicionales, Boolean Nuevo)
+        {
+            SqlConnection Sqlcon;
+            SqlCommand Sqlcmd;
+            SqlDataAdapter Sqldap;
+            DataSet Dts;
+            BaseContextoDatos obj = new BaseContextoDatos();
+            Sqlcon = obj.ConectarBd();
+            try
+            {
+                Sqlcon.Open();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            Sqlcmd = new SqlCommand("sp_DatosAtencionSimplificadaConsultaExterna", Sqlcon);
+            Sqlcmd.CommandType = CommandType.StoredProcedure;
+
+
+            Sqlcmd.Parameters.Add("@ATE_CODIGO", SqlDbType.Int);
+            Sqlcmd.Parameters["@ATE_CODIGO"].Value = atencion.ATE_CODIGO;
+
+            Sqlcmd.Parameters.Add("@ATE_NUMERO_ATENCION", SqlDbType.NChar);
+            Sqlcmd.Parameters["@ATE_NUMERO_ATENCION"].Value = atencion.ATE_NUMERO_ATENCION;
+
+            Sqlcmd.Parameters.Add("@ATE_FECHA", SqlDbType.DateTime);
+            Sqlcmd.Parameters["@ATE_FECHA"].Value = atencion.ATE_FECHA;
+
+            Sqlcmd.Parameters.Add("@ATE_NUMERO_CONTROL", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_NUMERO_CONTROL"].Value = atencion.ATE_NUMERO_CONTROL;
+
+            Sqlcmd.Parameters.Add("@ATE_FACTURA_PACIENTE", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_FACTURA_PACIENTE"].Value = atencion.ATE_FACTURA_PACIENTE;
+
+            Sqlcmd.Parameters.Add("@ATE_FACTURA_FECHA", SqlDbType.Date);
+            Sqlcmd.Parameters["@ATE_FACTURA_FECHA"].Value = atencion.ATE_FACTURA_FECHA;
+
+            Sqlcmd.Parameters.Add("@ATE_FECHA_INGRESO", SqlDbType.DateTime);
+            Sqlcmd.Parameters["@ATE_FECHA_INGRESO"].Value = atencion.ATE_FECHA_INGRESO;
+
+            Sqlcmd.Parameters.Add("@ATE_FECHA_ALTA", SqlDbType.DateTime);
+            Sqlcmd.Parameters["@ATE_FECHA_ALTA"].Value = atencion.ATE_FECHA_ALTA;
+
+            Sqlcmd.Parameters.Add("@ATE_REFERIDO", SqlDbType.Bit);
+            Sqlcmd.Parameters["@ATE_REFERIDO"].Value = 1;
+
+            Sqlcmd.Parameters.Add("@ATE_REFERIDO_DE", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_REFERIDO_DE"].Value = atencion.ATE_REFERIDO_DE;
+
+            Sqlcmd.Parameters.Add("@ATE_EDAD_PACIENTE", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@ATE_EDAD_PACIENTE"].Value = atencion.ATE_EDAD_PACIENTE;
+
+            Sqlcmd.Parameters.Add("@ATE_ACOMPANANTE_NOMBRE", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_ACOMPANANTE_NOMBRE"].Value = atencion.ATE_ACOMPANANTE_NOMBRE;
+
+            Sqlcmd.Parameters.Add("@ATE_ACOMPANANTE_CEDULA", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_ACOMPANANTE_CEDULA"].Value = atencion.ATE_ACOMPANANTE_CEDULA;
+
+            Sqlcmd.Parameters.Add("@ATE_ACOMPANANTE_PARENTESCO", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_ACOMPANANTE_PARENTESCO"].Value = atencion.ATE_ACOMPANANTE_PARENTESCO;
+
+            Sqlcmd.Parameters.Add("@ATE_ACOMPANANTE_TELEFONO", SqlDbType.NChar);
+            Sqlcmd.Parameters["@ATE_ACOMPANANTE_TELEFONO"].Value = "S/T";
+
+            Sqlcmd.Parameters.Add("@ATE_ACOMPANANTE_DIRECCION", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_ACOMPANANTE_DIRECCION"].Value = "S/D";
+
+            Sqlcmd.Parameters.Add("@ATE_ACOMPANANTE_CIUDAD", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_ACOMPANANTE_CIUDAD"].Value = atencion.ATE_ACOMPANANTE_CIUDAD;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_NOMBRE", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_GARANTE_NOMBRE"].Value = atencion.ATE_GARANTE_NOMBRE;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_CEDULA", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_GARANTE_CEDULA"].Value = atencion.ATE_GARANTE_CEDULA;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_PARENTESCO", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_GARANTE_PARENTESCO"].Value = atencion.ATE_GARANTE_PARENTESCO;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_MONTO_GARANTIA", SqlDbType.Decimal);
+            Sqlcmd.Parameters["@ATE_GARANTE_MONTO_GARANTIA"].Value = atencion.ATE_GARANTE_MONTO_GARANTIA;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_TELEFONO", SqlDbType.NChar);
+            Sqlcmd.Parameters["@ATE_GARANTE_TELEFONO"].Value = atencion.ATE_GARANTE_TELEFONO;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_DIRECCION", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_GARANTE_DIRECCION"].Value = atencion.ATE_GARANTE_DIRECCION;
+
+            Sqlcmd.Parameters.Add("@ATE_GARANTE_CIUDAD", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_GARANTE_CIUDAD"].Value = atencion.ATE_GARANTE_CIUDAD;
+
+            Sqlcmd.Parameters.Add("@ATE_DIAGNOSTICO_INICIAL", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_DIAGNOSTICO_INICIAL"].Value = atencion.ATE_DIAGNOSTICO_INICIAL;
+
+            Sqlcmd.Parameters.Add("@ATE_DIAGNOSTICO_FINAL", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_DIAGNOSTICO_FINAL"].Value = atencion.ATE_DIAGNOSTICO_FINAL;
+
+            Sqlcmd.Parameters.Add("@ATE_OBSERVACIONES", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_OBSERVACIONES"].Value = atencion.ATE_OBSERVACIONES;
+
+            Sqlcmd.Parameters.Add("@ATE_ESTADO", SqlDbType.Bit);
+            Sqlcmd.Parameters["@ATE_ESTADO"].Value = 1;
+
+            Sqlcmd.Parameters.Add("@ATE_FACTURA_NOMBRE", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_FACTURA_NOMBRE"].Value = atencion.ATE_FACTURA_NOMBRE;
+
+            Sqlcmd.Parameters.Add("@ATE_DIRECTORIO", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_DIRECTORIO"].Value = atencion.ATE_DIRECTORIO;
+
+            Sqlcmd.Parameters.Add("@PAC_CODIGO", SqlDbType.Int);
+            Sqlcmd.Parameters["@PAC_CODIGO"].Value = atencion.PACIENTESReference.EntityKey.EntityKeyValues[0].Value;
+
+            Sqlcmd.Parameters.Add("@DAP_CODIGO", SqlDbType.Int);
+            Sqlcmd.Parameters["@DAP_CODIGO"].Value = CodigoDatosAdicionales;
+
+            Sqlcmd.Parameters.Add("@HAB_CODIGO", SqlDbType.SmallInt);
+            //Sqlcmd.Parameters["@HAB_CODIGO"].Value = atencion.HABITACIONESReference.EntityKey.EntityKeyValues[0].Value; ;//habitacion
+            Sqlcmd.Parameters["@HAB_CODIGO"].Value = 0;//habitacion
+
+            Sqlcmd.Parameters.Add("@CAJ_CODIGO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@CAJ_CODIGO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@TIA_CODIGO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@TIA_CODIGO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@ID_USUSARIO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@ID_USUSARIO"].Value = atencion.USUARIOSReference.EntityKey.EntityKeyValues[0].Value;
+
+            Sqlcmd.Parameters.Add("@TIR_CODIGO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@TIR_CODIGO"].Value = 1;
+
+            Sqlcmd.Parameters.Add("@AFL_CODIGO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@AFL_CODIGO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@MED_CODIGO", SqlDbType.Int);
+            Sqlcmd.Parameters["@MED_CODIGO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@TIP_CODIGO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@TIP_CODIGO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@TIF_CODIGO", SqlDbType.SmallInt);
+            Sqlcmd.Parameters["@TIF_CODIGO"].Value = 1;
+
+            Sqlcmd.Parameters.Add("@TIF_OBSERVACION", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@TIF_OBSERVACION"].Value = atencion.TIF_OBSERVACION;
+
+            Sqlcmd.Parameters.Add("@ATE_NUMERO_ADMISION", SqlDbType.Int);
+            Sqlcmd.Parameters["@ATE_NUMERO_ADMISION"].Value = atencion.ATE_NUMERO_ADMISION;
+
+            Sqlcmd.Parameters.Add("@ATE_EN_QUIROFANO", SqlDbType.Bit);
+            Sqlcmd.Parameters["@ATE_EN_QUIROFANO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@FOR_PAGO", SqlDbType.Int);
+            Sqlcmd.Parameters["@FOR_PAGO"].Value = 0;
+
+            Sqlcmd.Parameters.Add("@ATE_QUIEN_ENTREGA_PAC", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@ATE_QUIEN_ENTREGA_PAC"].Value = atencion.ATE_QUIEN_ENTREGA_PAC;
+
+            Sqlcmd.Parameters.Add("@ATE_CIERRE_HC", SqlDbType.Bit);
+            Sqlcmd.Parameters["@ATE_CIERRE_HC"].Value = atencion.ATE_CIERRE_HC;
+
+            Sqlcmd.Parameters.Add("@ATE_FEC_ING_HABITACION", SqlDbType.DateTime);
+            Sqlcmd.Parameters["@ATE_FEC_ING_HABITACION"].Value = Convert.ToDateTime(DateTime.Now.ToString());
+
+            Sqlcmd.Parameters.Add("@ESC_CODIGO", SqlDbType.Int);
+            Sqlcmd.Parameters["@ESC_CODIGO"].Value = atencion.ESC_CODIGO;
+
+            Sqlcmd.Parameters.Add("@CUE_ESTADO", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@CUE_ESTADO"].Value = 1;
+
+            Sqlcmd.Parameters.Add("@TipoAtencion", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@TipoAtencion"].Value = atencion.TipoAtencion;
+
+            Sqlcmd.Parameters.Add("@DireccionPaciente", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@DireccionPaciente"].Value = atencion.ATE_ACOMPANANTE_DIRECCION;
+
+            Sqlcmd.Parameters.Add("@TelefonoPaciente", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@TelefonoPaciente"].Value = atencion.ATE_ACOMPANANTE_TELEFONO;
+
+            Sqlcmd.Parameters.Add("@CelularPaciente", SqlDbType.VarChar);
+            Sqlcmd.Parameters["@CelularPaciente"].Value = atencion.ATE_GARANTE_TELEFONO;
+
+            Sqlcmd.Parameters.Add("@Nuevo", SqlDbType.Bit);
+
+            if (Nuevo == true)
+            {
+                Sqlcmd.Parameters["@Nuevo"].Value = 1;
+            }
+            else
+            {
+                Sqlcmd.Parameters["@Nuevo"].Value = 0;
+            }
+
+
+            Sqldap = new SqlDataAdapter();
+            Sqlcmd.CommandTimeout = 180; //ESTABLECE EL TIEMPO MAXIMO DE ESPERA A UNA CONSULTA EN EL SERVIDOR EN SEGUNDOS/ GIOVANNY TAPIA /03/07/2012
+            Sqldap.SelectCommand = Sqlcmd;
+            Dts = new DataSet();
+            Sqldap.Fill(Dts, "tabla");
+            return Dts.Tables["tabla"];
+        }
         public void GrabarAtencion(ATENCIONES atencionModificada, ATENCIONES atencionOriginal)
         {
             using (var contexto = new HIS3000BDEntities(ConexionEntidades.ConexionEDM))

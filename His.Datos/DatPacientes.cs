@@ -2270,7 +2270,26 @@ namespace His.Datos
             }
             catch (Exception err) { throw err; }
         }
-
+        public PACIENTES RecuperarPacienteCedula(string cedula)
+        {
+            try
+            {
+                using(var db = new HIS3000BDEntities(ConexionEntidades.ConexionEDM))
+                {
+                    return (from p in db.PACIENTES
+                                //join a in contexto.PACIENTES_DATOS_ADICIONALES on p.PAC_CODIGO equals a.PACIENTES.PAC_CODIGO
+                            join g in db.GRUPO_SANGUINEO on p.GRUPO_SANGUINEO.GS_CODIGO equals g.GS_CODIGO
+                            join e in db.ETNIA on p.ETNIA.E_CODIGO equals e.E_CODIGO
+                            where p.PAC_IDENTIFICACION == cedula
+                            select p).FirstOrDefault();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return null;
+            }
+        }
         public List<PACIENTES_VISTA> recuperarPacientePorHistoria(string HistoriaClinica)
         {
             using (var contexto = new HIS3000BDEntities(ConexionEntidades.ConexionEDM))

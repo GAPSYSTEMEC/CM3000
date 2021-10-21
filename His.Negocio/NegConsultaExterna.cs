@@ -97,5 +97,13 @@ namespace His.Negocio
         {
             return new DatConsultaExterna().getConsultasExternas(atecodigo);
         }
+        public static DataTable VerSintomas()
+        {
+            return new DatConsultaExterna().VerSintomas();
+        }
+        public static void GuardarAtencionSintomas(Int64 ate_codigo, Int64 sc_codigo)
+        {
+            new DatConsultaExterna().GuardaAtencionSintomas(ate_codigo, sc_codigo);
+        }
     }
 }

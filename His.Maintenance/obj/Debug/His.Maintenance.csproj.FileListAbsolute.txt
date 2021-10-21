@@ -543,7 +543,6 @@ R:\CM3000\bin\Reportes\Admision\rPrimeraAtencion2.cs
 R:\CM3000\bin\His.Maintenance.dll.config
 R:\CM3000\bin\His.Maintenance.dll
 R:\CM3000\bin\His.Maintenance.pdb
-R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.csprojAssemblyReference.cache
 R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.g.resources
 R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.frmParametros.resources
 R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.frmBancos.resources
@@ -585,3 +584,4 @@ R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.csproj.CoreCompileInputs.cac
 R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.csproj.CopyComplete
 R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.dll
 R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.pdb
+R:\CM3000\His.Maintenance\obj\Debug\His.Maintenance.csprojAssemblyReference.cache

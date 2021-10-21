@@ -1453,5 +1453,43 @@ namespace His.Datos
             }
             return Dts;
         }
+        public DataTable VerSintomas()
+        {
+            SqlCommand command;
+            SqlDataReader reader;
+            SqlConnection connection;
+            DataTable Tabla = new DataTable();
+
+            BaseContextoDatos obj = new BaseContextoDatos();
+            connection = obj.ConectarBd();
+            connection.Open();
+            command = new SqlCommand("sp_VerSintomas", connection);
+            command.CommandType = CommandType.StoredProcedure;
+            command.CommandTimeout = 180;
+            reader = command.ExecuteReader();
+            Tabla.Load(reader);
+            reader.Close();
+            connection.Close();
+            return Tabla;
+
+        }
+
+        public void GuardaAtencionSintomas(Int64 ate_codigo, Int64 sc_codigo)
+        {
+            SqlCommand command;
+            SqlConnection connection;
+
+            BaseContextoDatos obj = new BaseContextoDatos();
+            connection = obj.ConectarBd();
+            connection.Open();
+
+            command = new SqlCommand("sp_GuardaAtencionSintomas", connection);
+            command.CommandType = CommandType.StoredProcedure;
+            command.Parameters.AddWithValue("@ate_codigo", ate_codigo);
+            command.Parameters.AddWithValue("@sc_codigo", sc_codigo);
+            command.ExecuteNonQuery();
+            command.Parameters.Clear();
+            connection.Close();
+        }
     }
 }

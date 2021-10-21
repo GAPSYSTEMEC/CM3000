@@ -291,6 +291,10 @@ namespace His.Negocio
             return new DatPacientes().recuperarPacientePorHistoria(HistoriaClinica);
         }
 
+        public static PACIENTES RecuperarPacienteCedula(string cedula)
+        {
+            return new DatPacientes().RecuperarPacienteCedula(cedula);
+        }
         public static DataTable getAtencionesFormularios(string desde, string hasta, bool ingreso, bool alta, bool facturacion, bool Fingreso, int Cod_Ingreso, bool Ftratamiento, int Cod_Tratamiento, bool Fhc, int hc, bool Fformulario, string formulario)
         {
             return new DatPacientes().getAtencionesFormularios(desde, hasta, ingreso, alta, facturacion, Fingreso, Cod_Ingreso, Ftratamiento, Cod_Tratamiento, Fhc, hc, Fformulario, formulario);
