@@ -67,3 +67,13 @@ R:\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.csproj.CoreCompileInputs
 R:\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.csproj.CopyComplete
 R:\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
 R:\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+<<<<<<< HEAD
+=======
+R:\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.csprojAssemblyReference.cache
+E:\Desarrollo\CM3000\bin\His.DatosReportes.dll
+E:\Desarrollo\CM3000\bin\His.DatosReportes.pdb
+E:\Desarrollo\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.csproj.CopyComplete
+E:\Desarrollo\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.dll
+E:\Desarrollo\CM3000\His.DatosReportes\obj\Debug\His.DatosReportes.pdb
+>>>>>>> 510326a31ca110a4a9a409aad9928f65ac6dfce4

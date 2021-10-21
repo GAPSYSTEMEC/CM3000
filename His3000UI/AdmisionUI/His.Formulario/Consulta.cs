@@ -1219,6 +1219,8 @@ namespace His.ConsultaExterna
                     btnImprimir.Visible = true;
                     btnreceta.Visible = true;
                     btnCertificado.Visible = true;
+                    btnImagen.Visible = true;
+                    btnLaboratorio.Visible = true;
                 }
                 else
                     MessageBox.Show("Información No Se Guardo Comuniquese Con Sistemas", "HIS3000", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -1803,6 +1805,12 @@ namespace His.ConsultaExterna
                     chbPre4.Checked = true;
                 }
             }
+        }
+
+        private void btnImagen_Click(object sender, EventArgs e)
+        {
+            His.Formulario.frm_Imagen frm = new frm_Imagen(Convert.ToInt32(lblAteCodigo.Text));
+            frm.ShowDialog();
         }
     }
 }

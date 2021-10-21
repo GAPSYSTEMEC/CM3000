@@ -63,3 +63,10 @@ R:\His3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
 R:\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.Cache
 R:\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
 R:\His3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb
+E:\Desarrollo\CM3000\Ejecutables\Recursos\His.Recursos.dll
+E:\Desarrollo\CM3000\Ejecutables\Recursos\His.Recursos.pdb
+E:\Desarrollo\CM3000\His3000UI\Recursos\obj\Debug\Recursos.Archivo.resources
+E:\Desarrollo\CM3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.GenerateResource.cache
+E:\Desarrollo\CM3000\His3000UI\Recursos\obj\Debug\His.Recursos.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\His3000UI\Recursos\obj\Debug\His.Recursos.dll
+E:\Desarrollo\CM3000\His3000UI\Recursos\obj\Debug\His.Recursos.pdb

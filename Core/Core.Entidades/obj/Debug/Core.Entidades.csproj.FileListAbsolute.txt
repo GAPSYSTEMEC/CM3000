@@ -57,3 +57,9 @@ R:\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.csprojAssemblyReference.c
 R:\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.csproj.CoreCompileInputs.cache
 R:\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
 R:\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb
+E:\Desarrollo\CM3000\bin\Core.Entidades.dll
+E:\Desarrollo\CM3000\bin\Core.Entidades.pdb
+E:\Desarrollo\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.csprojAssemblyReference.cache
+E:\Desarrollo\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.csproj.CoreCompileInputs.cache
+E:\Desarrollo\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.dll
+E:\Desarrollo\CM3000\Core\Core.Entidades\obj\Debug\Core.Entidades.pdb

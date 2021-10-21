@@ -96,9 +96,15 @@ namespace His.Formulario
             tools.Enabled = false;
         }
 
-        public frm_Imagen(int nAtencion)
+        public frm_Imagen(int nAtencion, int inicio = 1)
         {
             InitializeComponent();
+            if(inicio == 0)
+            {
+                frm_AyudaPacientes frm = new frm_AyudaPacientes();
+                frm.ShowDialog();
+                nAtencion = Convert.ToInt32(frm.campoAtencion.ToString());
+            }
             controles_reset();
             this.nAtencion = nAtencion;
             refrescarSolicitudes();

@@ -113,7 +113,7 @@ namespace His.ConsultaExterna
         {
             Form formulario;
             //BUSCA EN LA COLECCION EL FORMULARIO
-            formulario = P_Formularios.Controls.OfType<MiForm>().FirstOrDefault();
+            formulario = P_Formularios.Controls.OfType<MiForm>().FirstOrDefault();            
             //VERIFICO SI EL FORMULARIO EXISTE O NO EXISTE PARA NO VOLVER ABRIRLO SI NO SOLO LLAMARLO
             if (formulario == null)
             {
@@ -146,11 +146,7 @@ namespace His.ConsultaExterna
             if (Application.OpenForms["frm_Admision"] == null)
             {
                 btnAdmisionCE.BackColor = Color.FromArgb(31, 195, 216);
-            }
-            if (Application.OpenForms["frmFactura"] == null)
-            {
-                btnFacturaCE.BackColor = Color.FromArgb(31, 195, 216);
-            }
+            }            
             if (Application.OpenForms["Consulta"] == null)
             {
                 btnAgendaConsulta.BackColor = Color.FromArgb(31, 195, 216);
@@ -207,7 +203,7 @@ namespace His.ConsultaExterna
         private void btnTriaje_Click(object sender, EventArgs e)
         {
             btnTriaje.BackColor = Color.Gainsboro;
-            AbrirFormulario<frm_Triaje>();
+            AbrirFormulario<Consulta>();
         }
 
         private void btnAgendaConsulta_Click(object sender, EventArgs e)
@@ -230,28 +226,12 @@ namespace His.ConsultaExterna
             formulario.BringToFront();
             formulario.FormClosed += new FormClosedEventHandler(CloseForm);
 
-        }
-
-        private void btnFacturaCE_Click(object sender, EventArgs e)
-        {
-            btnFacturaCE.BackColor = Color.Gainsboro;
-            frmFactura archivo = new frmFactura(Environment.CurrentDirectory + "\\his3000.ini");
-            archivo.codigoCaja = Convert.ToInt16(archivo.IniReadValue("Caja", "codigo"));
-            frmFactura formulario = new frmFactura(archivo.codigoCaja);
-            formulario.TopLevel = false;
-            formulario.FormBorderStyle = FormBorderStyle.None;
-            formulario.Dock = DockStyle.Fill;
-            P_Formularios.Controls.Add(formulario);
-            P_Formularios.Tag = formulario;            
-            formulario.Show();
-            formulario.BringToFront();
-            formulario.FormClosed += new FormClosedEventHandler(CloseForm);
-        }
+        }        
 
         private void btnConsultaEx_Click(object sender, EventArgs e)
         {
             btnConsultaEx.BackColor = Color.Gainsboro;
-            AbrirFormulario<Consulta>();
+            AbrirFormulario<His.Formulario.frmLaboratorioClinico>();
         }
 
         private void btnReportes_Click(object sender, EventArgs e)
@@ -270,6 +250,12 @@ namespace His.ConsultaExterna
         {
             button2.BackColor = Color.Gainsboro;
             AbrirFormulario<His.Formulario.frm_RecetaMedica>();
+        }
+
+        private void btnIngresaOrden_Click(object sender, EventArgs e)
+        {
+            btnIngresaOrden.BackColor = Color.Gainsboro;
+            AbrirFormulario<His.Formulario.frm_Imagen>();
         }
 
         private void muestraSubMenu(Panel submenu)

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-R:\CM3000\His3000UI\GeneralUI\obj\Debug\
+E:\Desarrollo\CM3000\His3000UI\GeneralUI\obj\Debug\
 GeneralApp
 none
 false
@@ -13,8 +13,8 @@ DEBUG;TRACE
 2-1348661355
 16245123975
 17-1820634350
-30-864815822
+30-1802440055
 ControlesWPF\Block.xaml;ControlesWPF\LoadingAnimation.xaml;
 
-True
+False
 

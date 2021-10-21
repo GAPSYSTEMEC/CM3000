@@ -14,7 +14,7 @@
   <xs:element name="HCU_form002MSP" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="HCU_form002MSP" msprop:Generator_UserDSName="HCU_form002MSP">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="Form002MSP" msprop:Generator_TableClassName="Form002MSPDataTable" msprop:Generator_TableVarName="tableForm002MSP" msprop:Generator_TablePropName="Form002MSP" msprop:Generator_RowDeletingName="Form002MSPRowDeleting" msprop:Generator_RowChangingName="Form002MSPRowChanging" msprop:Generator_RowEvHandlerName="Form002MSPRowChangeEventHandler" msprop:Generator_RowDeletedName="Form002MSPRowDeleted" msprop:Generator_UserTableName="Form002MSP" msprop:Generator_RowChangedName="Form002MSPRowChanged" msprop:Generator_RowEvArgName="Form002MSPRowChangeEvent" msprop:Generator_RowClassName="Form002MSPRow">
+        <xs:element name="Form002MSP" msprop:Generator_TableClassName="Form002MSPDataTable" msprop:Generator_TableVarName="tableForm002MSP" msprop:Generator_RowChangedName="Form002MSPRowChanged" msprop:Generator_TablePropName="Form002MSP" msprop:Generator_RowDeletingName="Form002MSPRowDeleting" msprop:Generator_RowChangingName="Form002MSPRowChanging" msprop:Generator_RowEvHandlerName="Form002MSPRowChangeEventHandler" msprop:Generator_RowDeletedName="Form002MSPRowDeleted" msprop:Generator_RowClassName="Form002MSPRow" msprop:Generator_UserTableName="Form002MSP" msprop:Generator_RowEvArgName="Form002MSPRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" msprop:Generator_UserColumnName="Nombre" minOccurs="0">
@@ -612,6 +612,8 @@
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
+              <xs:element name="path" msprop:Generator_ColumnVarNameInTable="columnpath" msprop:Generator_ColumnPropNameInRow="path" msprop:Generator_ColumnPropNameInTable="pathColumn" msprop:Generator_UserColumnName="path" type="xs:string" minOccurs="0" />
+              <xs:element name="empresa" msprop:Generator_ColumnVarNameInTable="columnempresa" msprop:Generator_ColumnPropNameInRow="empresa" msprop:Generator_ColumnPropNameInTable="empresaColumn" msprop:Generator_UserColumnName="empresa" type="xs:string" minOccurs="0" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>
