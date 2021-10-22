@@ -51,7 +51,9 @@ namespace His.Admision
 
                 ultraGridPacientes.DataSource = NegLaboratorio.RecuperarPacientes(null, null);
             }
+#pragma warning disable CS0168 // La variable 'ex' se ha declarado pero nunca se usa
             catch (Exception ex)
+#pragma warning restore CS0168 // La variable 'ex' se ha declarado pero nunca se usa
             {
 
             }
@@ -292,7 +294,9 @@ namespace His.Admision
                 //    CargarPaciente(Convert.ToInt32(txtAtencion.Text));
                 frm.ShowDialog();
             }
+#pragma warning disable CS0168 // La variable 'ex' se ha declarado pero nunca se usa
             catch (Exception ex)
+#pragma warning restore CS0168 // La variable 'ex' se ha declarado pero nunca se usa
             {
                 //MessageBox.Show(ex.InnerException.Message);
             }
@@ -386,7 +390,9 @@ namespace His.Admision
                     limpiarCamposPaciente();
                     toolStripCuenta.Enabled = false;
                 }
+#pragma warning disable CS0168 // La variable 'ex' se ha declarado pero nunca se usa
                 catch (Exception ex)
+#pragma warning restore CS0168 // La variable 'ex' se ha declarado pero nunca se usa
                 {
                     MessageBox.Show("No se pudo  cargar  archivo ");
                     toolStripCuenta.Enabled = false;

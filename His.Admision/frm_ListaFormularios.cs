@@ -22,8 +22,12 @@ namespace His.Admision
         ATENCIONES atencion = null;
         PACIENTES paciente = null;
         PACIENTES_DATOS_ADICIONALES datos = null;
+#pragma warning disable CS0414 // El campo 'frm_ListaFormularios.ciudad' está asignado pero su valor nunca se usa
         CIUDAD ciudad = null;
+#pragma warning restore CS0414 // El campo 'frm_ListaFormularios.ciudad' está asignado pero su valor nunca se usa
+#pragma warning disable CS0414 // El campo 'frm_ListaFormularios.pais' está asignado pero su valor nunca se usa
         PAIS pais = null;
+#pragma warning restore CS0414 // El campo 'frm_ListaFormularios.pais' está asignado pero su valor nunca se usa
         ESTADO_CIVIL estadocivil = null;
         ETNIA etnia = null;
         public frm_ListaFormularios()

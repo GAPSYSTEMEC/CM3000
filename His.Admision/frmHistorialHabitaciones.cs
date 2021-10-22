@@ -23,14 +23,22 @@ namespace His.Admision
 {
     public partial class frmHistorialHabitaciones : Form
     {
+#pragma warning disable CS0169 // El campo 'frmHistorialHabitaciones.fechaAltaIni' nunca se usa
         private string fechaAltaIni;
+#pragma warning restore CS0169 // El campo 'frmHistorialHabitaciones.fechaAltaIni' nunca se usa
+#pragma warning disable CS0169 // El campo 'frmHistorialHabitaciones.fechaAltaFin' nunca se usa
         private string fechaAltaFin;
+#pragma warning restore CS0169 // El campo 'frmHistorialHabitaciones.fechaAltaFin' nunca se usa
         //bool pintarCeldas;
+#pragma warning disable CS0414 // El campo 'frmHistorialHabitaciones.contador' está asignado pero su valor nunca se usa
         int contador = 0;
+#pragma warning restore CS0414 // El campo 'frmHistorialHabitaciones.contador' está asignado pero su valor nunca se usa
         //byte ranColor;
        // Color[] pColor;
         string valorGridAnt;
+#pragma warning disable CS0414 // El campo 'frmHistorialHabitaciones.conjuntoAtenciones' está asignado pero su valor nunca se usa
         string[] conjuntoAtenciones;
+#pragma warning restore CS0414 // El campo 'frmHistorialHabitaciones.conjuntoAtenciones' está asignado pero su valor nunca se usa
         public frmHistorialHabitaciones()
         {
             //pColor = mColor();
@@ -271,7 +279,9 @@ namespace His.Admision
             {
                 CreateExcel(ugrdHistorial, FindSavePath());
             }
+#pragma warning disable CS0168 // La variable 'esx' se ha declarado pero nunca se usa
             catch (Exception esx)
+#pragma warning restore CS0168 // La variable 'esx' se ha declarado pero nunca se usa
             {
 
             }

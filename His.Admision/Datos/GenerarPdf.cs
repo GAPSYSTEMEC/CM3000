@@ -129,7 +129,9 @@ namespace His.Admision.Datos
                         client.MakeDir(direccionFTP.Trim() + clinica.Trim() + "/" + nuemro_atencion.Trim());
                     }
                 }
+#pragma warning disable CS0168 // La variable 'ex' se ha declarado pero nunca se usa
                 catch (Exception ex) { }
+#pragma warning restore CS0168 // La variable 'ex' se ha declarado pero nunca se usa
 
                 try
                 {
@@ -141,7 +143,9 @@ namespace His.Admision.Datos
                         client.PutFile("c:\\CRT" + clinica.Trim() + "" + nuemro_atencion.Trim() + ".pdf", pathFtp.Trim() + clinica.Trim() + "/" + nuemro_atencion.Trim() + "/" + "CRT" + clinica.Trim() + "" + nuemro_atencion.Trim() + ".pdf");
                     }
                 }
+#pragma warning disable CS0168 // La variable 'es' se ha declarado pero nunca se usa
                 catch (Exception es) { }
+#pragma warning restore CS0168 // La variable 'es' se ha declarado pero nunca se usa
             }
 
 
@@ -189,7 +193,9 @@ namespace His.Admision.Datos
                     }
                     cryRpt.Export();
                 }
+#pragma warning disable CS0168 // La variable 'ex' se ha declarado pero nunca se usa
                 catch (Exception ex) { }
+#pragma warning restore CS0168 // La variable 'ex' se ha declarado pero nunca se usa
 
                 try
                 {
@@ -202,7 +208,9 @@ namespace His.Admision.Datos
                         client.MakeDir(direccionFTP.Trim() + clinica.Trim() + "/" + nuemro_atencion.Trim());
                     }
                 }
+#pragma warning disable CS0168 // La variable 'ex' se ha declarado pero nunca se usa
                 catch (Exception ex) { }
+#pragma warning restore CS0168 // La variable 'ex' se ha declarado pero nunca se usa
 
                 try
                 {
@@ -214,7 +222,9 @@ namespace His.Admision.Datos
                         client.PutFile("c:\\F001" + clinica.Trim() + "" + nuemro_atencion.Trim() + ".pdf", pathFtp.Trim() + clinica.Trim() + "/" + nuemro_atencion.Trim() + "/" + "F001" + clinica.Trim() + "" + nuemro_atencion.Trim() + ".pdf");
                     }
                 }
+#pragma warning disable CS0168 // La variable 'es' se ha declarado pero nunca se usa
                 catch (Exception es) { }
+#pragma warning restore CS0168 // La variable 'es' se ha declarado pero nunca se usa
             }
         }
     }

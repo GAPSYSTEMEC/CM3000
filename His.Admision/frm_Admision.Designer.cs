@@ -6911,7 +6911,9 @@ namespace His.Admision
         private System.Windows.Forms.MaskedTextBox txt_rucEmp;
         private System.Windows.Forms.Label label61;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
+#pragma warning disable CS0169 // El campo 'frm_Admision.dataGridViewTextBoxColumnEx1' nunca se usa
         private His.Negocio.DataGridViewTextBoxColumnEx dataGridViewTextBoxColumnEx1;
+#pragma warning restore CS0169 // El campo 'frm_Admision.dataGridViewTextBoxColumnEx1' nunca se usa
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn7;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn8;

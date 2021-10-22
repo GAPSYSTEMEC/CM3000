@@ -39,7 +39,9 @@ namespace His.Admision
         public double bodega;
         //int cod_ate = 0;
 
+#pragma warning disable CS0414 // El campo 'frmEmergenciaProcedimientos.HC' está asignado pero su valor nunca se usa
         int HC = 0;
+#pragma warning restore CS0414 // El campo 'frmEmergenciaProcedimientos.HC' está asignado pero su valor nunca se usa
 
         public frmEmergenciaProcedimientos()
         {
@@ -498,7 +500,9 @@ namespace His.Admision
                 #region Genero Atencion
                 string NumeroHistoria = "";
                 int CodigoPaciente = 0;
+#pragma warning disable CS0219 // La variable 'CodigoAtencion' está asignada pero su valor nunca se usa
                 int CodigoAtencion = 0;
+#pragma warning restore CS0219 // La variable 'CodigoAtencion' está asignada pero su valor nunca se usa
 
                 // USUARIOS Usuario = new USUARIOS();
                 TIPO_REFERIDO TR = new TIPO_REFERIDO();

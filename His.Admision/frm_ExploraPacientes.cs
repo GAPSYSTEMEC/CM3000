@@ -23,7 +23,9 @@ namespace His.Admision
         ImageList iconImages;
         public string tipoc;
         public bool tipsec;
+#pragma warning disable CS0169 // El campo 'frm_ExploraPacientes.porcCobrar' nunca se usa
         private Int16 porcCobrar;
+#pragma warning restore CS0169 // El campo 'frm_ExploraPacientes.porcCobrar' nunca se usa
         //Variables de estado
         enum tipoActivo { ePaciente = 1, eMedicos, eTipoTratamiento, eTipoIngreso };
         enum tipoGrid { eRaiz = 1, eAtencion };
@@ -37,7 +39,9 @@ namespace His.Admision
         private string fechaAltaIni;
         private string fechaAltaFin;
         private string atencionActiva;
+#pragma warning disable CS0649 // El campo 'frm_ExploraPacientes.codigoMedico' nunca se asigna y siempre tendrá el valor predeterminado null
         private string codigoMedico;
+#pragma warning restore CS0649 // El campo 'frm_ExploraPacientes.codigoMedico' nunca se asigna y siempre tendrá el valor predeterminado null
         private string codigoAseguradoraEmpresa;
         //Variables contenedoras de las listas
         private List<PACIENTES_VISTA> pacientesVistaLista;
@@ -179,7 +183,9 @@ namespace His.Admision
                     case (Int16)tipoActivo.eMedicos:
 
                         var medicos = NegMedicos.listaMedicosTratantes();
+#pragma warning disable CS0219 // La variable 'tipoIngreso' está asignada pero su valor nunca se usa
                         Int16 tipoIngreso = (Int16)tipoActivo.ePaciente;
+#pragma warning restore CS0219 // La variable 'tipoIngreso' está asignada pero su valor nunca se usa
 
                         foreach (var g in medicos)
                         {

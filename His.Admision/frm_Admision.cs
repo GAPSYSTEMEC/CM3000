@@ -3576,7 +3576,9 @@ namespace His.Admision
                 }
                 else
                 {
+#pragma warning disable CS0219 // La variable 'accion' está asignada pero su valor nunca se usa
                     bool accion = false;
+#pragma warning restore CS0219 // La variable 'accion' está asignada pero su valor nunca se usa
                     for (Int16 i = 0; i < gridAseguradoras.RowCount; i++)
                     {
                         DataGridViewRow fila = gridAseguradoras.Rows[i];
@@ -3973,7 +3975,9 @@ namespace His.Admision
             {
                 bool accion = false;
                 string cadena = "";
+#pragma warning disable CS0219 // La variable 'cadena1' está asignada pero su valor nunca se usa
                 string cadena1 = "";
+#pragma warning restore CS0219 // La variable 'cadena1' está asignada pero su valor nunca se usa
                 for (int i = 0; i < campo.Length; i++)
                 {
                     if (accion == false)

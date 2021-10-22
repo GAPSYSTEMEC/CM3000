@@ -41,7 +41,9 @@ namespace His.Admision
 
         private void CargarReporte(int NumeroPedido)
         {
+#pragma warning disable CS0219 // La variable 'PrinterName' está asignada pero su valor nunca se usa
             string PrinterName = "";
+#pragma warning restore CS0219 // La variable 'PrinterName' está asignada pero su valor nunca se usa
             string NombreReporte = "";
             DataTable ds1 = new DataTable();
             DataTable ImpresoraArea = new DataTable();

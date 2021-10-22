@@ -25,11 +25,17 @@ namespace His.Admision
         List<RUBROS> listaRubros = new List<RUBROS>();
         public RUBROS rubro = new RUBROS();
         private PEDIDOS_AREAS areas;
+#pragma warning disable CS0169 // El campo 'frmAyudaProductos.listaProductosDisponibles' nunca se usa
         private List<PRODUCTO> listaProductosDisponibles;
+#pragma warning restore CS0169 // El campo 'frmAyudaProductos.listaProductosDisponibles' nunca se usa
         public List<PRODUCTO> listaProductosSolicitados;
         public string descripcion;
+#pragma warning disable CS0169 // El campo 'frmAyudaProductos.codigoArea' nunca se usa
         private Int16 codigoArea;
+#pragma warning restore CS0169 // El campo 'frmAyudaProductos.codigoArea' nunca se usa
+#pragma warning disable CS0169 // El campo 'frmAyudaProductos.vistaModo' nunca se usa
         private string vistaModo;
+#pragma warning restore CS0169 // El campo 'frmAyudaProductos.vistaModo' nunca se usa
         public int codTransaccion;
         DataTable Productos = new DataTable();
         public PEDIDOS_DETALLE PedidosDetalleItem = null;
@@ -357,7 +363,9 @@ namespace His.Admision
                 txt_Nombre.SelectAll();
                 txt_Nombre.Focus();
             }
+#pragma warning disable CS0168 // La variable 'err' se ha declarado pero nunca se usa
             catch (Exception err)
+#pragma warning restore CS0168 // La variable 'err' se ha declarado pero nunca se usa
             {
                 //MessageBox.Show(err.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }

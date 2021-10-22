@@ -28,8 +28,12 @@ namespace His.Admision
         public string campo8;
         public string campo9;
         public string campo10;
+#pragma warning disable CS0649 // El campo 'frmReportes.campo11' nunca se asigna y siempre tendrá el valor predeterminado null
         public string campo11;
+#pragma warning restore CS0649 // El campo 'frmReportes.campo11' nunca se asigna y siempre tendrá el valor predeterminado null
+#pragma warning disable CS0649 // El campo 'frmReportes.campo12' nunca se asigna y siempre tendrá el valor predeterminado null
         public string campo12;
+#pragma warning restore CS0649 // El campo 'frmReportes.campo12' nunca se asigna y siempre tendrá el valor predeterminado null
         public string campo13;
         public DateTime campo14;
         public string campo15;

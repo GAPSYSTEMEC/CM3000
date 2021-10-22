@@ -23,7 +23,9 @@ namespace His.Admision
     public partial class MDI_Admision : Form
     {
         #region Variables
+#pragma warning disable CS0414 // El campo 'MDI_Admision.childFormNumber' está asignado pero su valor nunca se usa
         private int childFormNumber = 0;
+#pragma warning restore CS0414 // El campo 'MDI_Admision.childFormNumber' está asignado pero su valor nunca se usa
         private DtoParametros parametrosGenerales = new DtoParametros();
         #endregion
 
@@ -224,8 +226,8 @@ namespace His.Admision
 
         private void anamnesisToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();
-            f1.Show();
+            //Form1 f1 = new Form1();
+            //f1.Show();
         }
 
         private void epicrisisToolStripMenuItem_Click(object sender, EventArgs e)

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\Desarrollo\CM3000\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Debug\
+R:\CM3000\His3000UI\AdmisionUI\His.HabitacionesUI\obj\Debug\
 His.HabitacionesUI
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 27657319499
 
 401072897778
-45-1596445482
+452005196555
 App.xaml;frmAcerca.xaml;frmAsignacionHabitaciones.xaml;frmAsignarDieta.xaml;frmAsignarPaciente.xaml;frmCrearHabitacion.xaml;frmCuentaPaciente.xaml;frmDevolucionPedido.xaml;frmDietas.xaml;frmEliminarHabitaciones.xaml;frmEncargarPaciente.xaml;frmEstadosHabitaciones.xaml;EstilosTreeView.xaml;frmEstructurasPisos.xaml;ExploradorHabitaciones.xaml;frmExamenesAyudas.xaml;frmHabitaciones.xaml;frmHistorisClinica.xaml;frmInfPaciente.xaml;frmListaFormularios.xaml;frmModificarHabitaciones.xaml;frmMoverPaciente.xaml;frmProductosAyuda.xaml;frmRadiografiaAyudas.xaml;frmRecetas.xaml;frmReporteOcupacion.xaml;Simple Styles.xaml;
 
 False

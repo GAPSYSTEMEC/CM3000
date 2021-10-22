@@ -154,13 +154,27 @@
         #endregion
 
         private Infragistics.Win.UltraWinGrid.UltraGrid ulgAnexos;
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel.timerBusqueda' nunca se usa
         private System.Windows.Forms.Timer timerBusqueda;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel.timerBusqueda' nunca se usa
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel.ultraFormManager1' nunca se usa
         private Infragistics.Win.UltraWinForm.UltraFormManager ultraFormManager1;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel.ultraFormManager1' nunca se usa
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel.frmBusquedaCIE10_Fill_Panel' nunca se usa
         private Infragistics.Win.Misc.UltraPanel frmBusquedaCIE10_Fill_Panel;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel.frmBusquedaCIE10_Fill_Panel' nunca se usa
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Left' nunca se usa
         private Infragistics.Win.UltraWinForm.UltraFormDockArea _frmBusquedaCIE10_UltraFormManager_Dock_Area_Left;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Left' nunca se usa
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Right' nunca se usa
         private Infragistics.Win.UltraWinForm.UltraFormDockArea _frmBusquedaCIE10_UltraFormManager_Dock_Area_Right;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Right' nunca se usa
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Top' nunca se usa
         private Infragistics.Win.UltraWinForm.UltraFormDockArea _frmBusquedaCIE10_UltraFormManager_Dock_Area_Top;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Top' nunca se usa
+#pragma warning disable CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Bottom' nunca se usa
         private Infragistics.Win.UltraWinForm.UltraFormDockArea _frmBusquedaCIE10_UltraFormManager_Dock_Area_Bottom;
+#pragma warning restore CS0169 // El campo 'frm_AyudaCatalogoSubNivel._frmBusquedaCIE10_UltraFormManager_Dock_Area_Bottom' nunca se usa
         private System.Windows.Forms.Timer timer1;
         private Infragistics.Win.Misc.UltraPanel ultraPanel1;
     }

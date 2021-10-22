@@ -991,7 +991,9 @@
         private Infragistics.Win.UltraWinGrid.ExcelExport.UltraGridExcelExporter ultraGridExcelExporter1;
         private System.Windows.Forms.Label lblTitListaPacientes;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator3;
+#pragma warning disable CS0169 // El campo 'frm_ExploraPacientes.toolStripLabel1' nunca se usa
         private System.Windows.Forms.ToolStripLabel toolStripLabel1;
+#pragma warning restore CS0169 // El campo 'frm_ExploraPacientes.toolStripLabel1' nunca se usa
         private Infragistics.Win.Misc.UltraGroupBox ultraGroupBox2;
         private Infragistics.Win.Misc.UltraLabel lblInfListaPacientes;
         private Infragistics.Win.UltraWinEditors.UltraTextEditor uTxtBusqueda;

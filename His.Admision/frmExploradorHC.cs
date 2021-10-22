@@ -19,7 +19,9 @@ namespace His.AdminHistoriasClinicas
     {
         ATENCIONES atencion = new ATENCIONES();
         List<FORMULARIOS_HCU> formularios = new List<FORMULARIOS_HCU>();
+#pragma warning disable CS0169 // El campo 'txtNombrePaciente.timerReloj' nunca se usa
         private Timer timerReloj;
+#pragma warning restore CS0169 // El campo 'txtNombrePaciente.timerReloj' nunca se usa
         private int codigoAtencion;
         public txtNombrePaciente()
         {

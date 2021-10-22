@@ -23,9 +23,15 @@ namespace His.Admision
         public int codPaciente;
         public bool MuevePaciente;
         public bool AsignaPaciente;
+#pragma warning disable CS0649 // El campo 'frm_Habitaciones.observacionMovimiento' nunca se asigna y siempre tendrá el valor predeterminado null
         string observacionMovimiento;
+#pragma warning restore CS0649 // El campo 'frm_Habitaciones.observacionMovimiento' nunca se asigna y siempre tendrá el valor predeterminado null
+#pragma warning disable CS0649 // El campo 'frm_Habitaciones.codhabitacionOcupada' nunca se asigna y siempre tendrá el valor predeterminado 0
         Int16 codhabitacionOcupada;
+#pragma warning restore CS0649 // El campo 'frm_Habitaciones.codhabitacionOcupada' nunca se asigna y siempre tendrá el valor predeterminado 0
+#pragma warning disable CS0414 // El campo 'frm_Habitaciones.campoPadre' está asignado pero su valor nunca se usa
         TextBox campoPadre = null;
+#pragma warning restore CS0414 // El campo 'frm_Habitaciones.campoPadre' está asignado pero su valor nunca se usa
         #endregion
 
         #region Constructor
@@ -343,7 +349,9 @@ namespace His.Admision
             int i = 0;
             int j = 0;
             ////HMergedCell pCell;
+#pragma warning disable CS0219 // La variable 'nOffset' está asignada pero su valor nunca se usa
             int nOffset;
+#pragma warning restore CS0219 // La variable 'nOffset' está asignada pero su valor nunca se usa
             //agrego columna al grid
 
             DataGridViewColumn a = new DataGridViewColumn();
